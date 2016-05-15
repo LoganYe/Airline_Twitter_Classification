@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{title}}</title>
+  </head>
+  <body>
+    <p><a href="/index/">index</a> <a href="/search/">book search</a> <a href="/check_out/">check out</a> <a href="/check_in/">check in</a> <a href="/borrower/">borrower manage</a> <a href="/fine/">fine</a></p>
+    {% if errStr %}
+      <p><b>{{errStr}}</b></p>
+    {% endif %}
+    {% block content %}
+    {% endblock %}
+  </body>
+</html>

@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+  <form name="input" action="/search/" method="get">
+    <b>Search:</b><br/>
+    ISBN: 
+    <input type="text" name="ISBN" style="position:absolute;left:100px"/>
+    <br/>
+    title: 
+    <input type="text" name="title" style="position:absolute;left:100px"/>
+    <br/>
+    author: 
+    <input type="text" name="author" style="position:absolute;left:100px"/>
+    <br/>
+    <input type="submit" value="search"/>
+  </form>
+  {% for book in book_datas %}
+  <p>ISBN: <b>{{book.ISBN}}</b> title: <b>{{book.title}}</b> author: <b>{{book.author}}</b></p>
+  {% for branch_info in book.branch %}
+    <p>Branch id: {{branch_info.Branch_id}} Branch.name: {{branch_info.Branch_name}} No of copies: {{branch_info.No_of_copies}} No of available copies: {{branch_info.No_of_available_copies}}</p>
+  {% endfor %}
+  {% endfor %}
+{% endblock %}

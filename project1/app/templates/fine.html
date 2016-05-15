@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+  <form name="input" action="/fine/" method="get">
+    <input type="radio" name="fine_mode" value="search" style="visibility:hidden;" checked/>
+    <b>Search fine:</b><br/>
+    card no:
+    <input type="text" name="card_no" style="position:absolute;left:150px"/>
+    <br/>
+    <input type="submit" value="search"/>
+  </form>
+
+  {% if book_datas %}
+  <form name="input" action="/fine/" method="get">
+    <input type="radio" name="fine_mode" value="pay" style="visibility:hidden;" checked/>
+    <br/>
+    <input type="submit" value="pay"/>
+    <br/>
+    {% for fine in book_datas %}
+    <input type="radio" name="loan_id" value="{{fine.loan_id}}"/>
+    card no: <b>{{fine.card_no}}</b> est amt: <b>{{fine.est_amt}}</b></p>
+    <br/>
+    {% endfor %}
+  </form>
+  {% endif %}
+{% endblock %}

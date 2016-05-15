@@ -1,0 +1,1001 @@
+id,company,drug_id,trials,patients,dosage_mg,reading,double_blind,controlled_study,govt_funded,fda_approved
+897,"Dasan E&T Co., Ltd.",LE-111,16,2029,479,95.2,true,false,true,false
+916,Major Pharmaceuticals,EM-554,87,1291,433,11.0,true,false,false,true
+39,Pharmacia and Upjohn Company,VB-517,68,1248,302,60.6,false,false,true,true
+817,Custom HBC Corporation,ON-989,55,1466,110,19.9,false,true,true,false
+415,SAFEWAY INC,IW-308,92,2167,44,46.0,false,true,false,false
+285,"Energique, Inc.",XN-038,41,1978,198,23.7,false,true,true,false
+769,"Lannett Company, Inc.",TU-302,57,2458,163,56.4,true,false,true,false
+159,Shopko Stores Operating,VN-252,74,1369,194,89.7,true,false,false,false
+980,H E B,KF-361,58,1649,369,59.6,false,true,true,false
+773,"Geiss, Destin and Dunn, Inc.",GL-400,84,2206,219,92.2,true,false,true,true
+626,J. A. Cosmetics U.S. INC,HK-172,51,1714,76,68.0,true,false,false,false
+511,"W.S. Badger Company, Inc.",OL-463,40,1331,51,98.8,false,true,true,false
+856,Sandoz Inc,HF-511,94,2265,277,18.7,true,true,true,false
+845,Cardinal Health,AE-435,92,2303,191,94.5,true,false,false,false
+456,REMEDYREPACK INC.,DY-994,66,1988,93,84.5,false,true,true,true
+928,FRED'S INC,PH-360,40,2410,212,28.3,true,true,true,false
+947,REMEDYREPACK INC.,MZ-180,100,1160,452,51.1,false,true,false,false
+873,CVS Pharmacy,AF-101,40,1349,226,49.7,true,false,false,false
+542,Freds Inc,RJ-091,19,2230,369,45.6,true,true,false,false
+489,Unique Holding Group Inc,MB-688,96,1729,212,31.6,false,false,false,true
+328,"Newton Laboratories, Inc.",TU-626,86,1109,123,82.9,true,false,false,false
+989,L'Oreal USA Products Inc,CT-688,76,1129,282,17.5,true,false,true,true
+837,IVAX Pharmaceuticals Inc.,OL-232,100,1403,178,90.2,true,false,false,true
+986,"Aphena Pharma Solutions - Tennessee, LLC",LU-690,45,2009,157,90.7,true,false,false,true
+751,"Par Pharmaceutical, Inc.",UC-537,57,1557,35,75.4,true,false,true,true
+830,A-S Medication Solutions LLC,KE-883,100,2083,497,38.9,true,false,true,false
+179,"PharmaDerm, A division of Nycomed US Inc.",OV-952,47,2320,496,16.7,false,false,false,true
+353,"PISHONANC Co, Ltd",DO-909,80,2344,344,74.9,false,false,true,true
+216,Wockhardt USA LLC.,LU-519,17,2331,89,46.3,false,true,false,false
+110,"Safetec of America, Inc.",JZ-510,86,1652,369,40.0,false,false,true,true
+992,GlaxoSmithKline LLC,OR-807,11,1611,499,73.0,true,false,true,false
+195,Medtech Products Inc.,RX-770,15,2101,135,69.6,true,true,true,false
+556,"Physicians Total Care, Inc.",CX-571,76,2300,438,48.9,true,true,true,false
+801,"Babor Cosmetics America, Corp",OP-080,91,2470,264,39.7,false,false,true,true
+259,Shasun Pharmaceuticals Limited,LY-793,68,1970,494,85.7,true,false,true,false
+545,CHANEL PARFUMS BEAUTE,OG-243,30,1716,24,23.5,false,false,false,true
+796,"Preferred Pharmaceuticals, Inc",UR-690,33,2481,232,40.1,false,true,true,true
+555,WOCKHARDT USA LLC.,JB-547,82,2052,173,21.1,true,true,false,false
+524,Aurolife Pharma LLC,YZ-830,47,1756,18,66.3,true,true,false,false
+256,Feelgood Health,TP-184,76,1451,251,62.2,true,true,true,true
+850,Cantrell Drug Company,VA-296,36,1883,197,23.1,false,false,false,false
+19,"BioActive Nutritional, Inc.",IE-515,79,1200,93,22.2,true,true,true,false
+276,Cardinal Health,OI-253,67,1089,199,51.0,true,true,true,true
+424,"Chattem, Inc.",EN-102,16,1092,172,68.8,false,false,true,true
+565,Bryant Ranch Prepack,BL-846,51,1331,124,28.6,true,false,false,true
+647,West-ward Pharmaceutical Corp,ZE-054,46,2013,149,54.8,false,true,true,false
+852,"E. FOUGERA & CO., A division of Fougera Pharmaceuticals Inc.",YW-211,39,1225,437,44.0,false,false,true,true
+349,Greenstone LLC,QM-098,40,1563,95,77.8,true,true,true,true
+400,STAT Rx USA LLC,WS-844,51,1343,215,29.5,true,true,false,true
+403,"Novel Laboratories, Inc.",JR-311,56,2260,214,54.7,true,true,true,true
+961,Apotheca Company,QC-411,92,1749,324,59.5,false,true,false,true
+444,US Pharmaceutical Corporation,CL-667,21,2133,247,74.0,false,false,true,true
+572,Mylan Institutional Inc.,CG-155,94,1133,141,71.0,false,true,true,true
+440,Merck Sharp & Dohme Corp.,GX-758,35,1407,214,71.5,false,true,true,true
+598,"Nelco Laboratories, Inc.",RE-344,24,2201,410,28.4,false,false,false,true
+279,Kmart Corporation,PQ-004,49,1114,419,41.3,false,true,false,true
+924,Par Pharmaceutical Inc.,CT-401,33,1362,39,78.9,true,true,true,true
+918,"EMD Serono, Inc.",BG-294,64,1040,368,66.0,false,true,false,true
+120,"Actavis Pharma, Inc.",CA-879,16,1431,114,51.6,true,false,true,true
+865,Medtech Products Inc.,GN-613,39,2219,490,58.0,false,false,false,false
+901,"Allen Medical, Inc",IG-665,68,2232,31,58.8,true,true,true,false
+858,JAFRA COSMETICS INTERNATIONAL,OD-818,89,2258,391,71.2,true,true,true,true
+503,WOCKHARDT USA LLC,LX-852,86,1012,404,37.5,true,true,false,true
+685,"Kinray, Inc",CO-486,71,2034,77,32.7,false,true,true,false
+772,Biotest Pharmaceuticals Corporation,BM-488,15,1710,298,18.9,false,false,true,false
+625,SHISEIDO AMERICA INC.,EI-156,60,1450,182,57.7,false,true,true,false
+169,"Watson Laboratories, Inc.",UR-851,84,1502,67,15.5,false,false,true,false
+748,Mylan Institutional Inc.,XW-362,74,1598,476,54.2,true,true,true,false
+470,"Golden State Medical Supply, Inc.",FS-499,92,1971,162,15.2,true,false,true,false
+18,"Newton Laboratories, Inc.",RW-201,99,1858,294,61.0,false,true,true,false
+99,"Antigen Laboratories, Inc.",MU-988,57,2080,209,31.0,false,true,false,false
+711,"Teva Parenteral Medicines, Inc.",TK-878,67,2333,381,76.9,false,true,false,true
+404,Neutrogena Corporation,BA-719,17,1523,398,93.8,true,false,false,false
+561,"International Labs, Inc.",HA-190,66,1829,51,16.9,false,true,true,false
+889,"ALK-Abello, Inc.",SZ-445,15,2261,367,17.6,true,true,true,true
+624,"Golden State Medical Supply, Inc.",JU-897,15,1819,284,63.2,true,false,false,false
+103,State of Florida DOH Central Pharmacy,FA-319,66,1962,471,27.9,false,false,true,true
+580,"Biopelle, Inc.",WA-141,55,1406,479,70.3,true,true,true,false
+862,"Aphena Pharma Solutions - Tennessee, Inc.",AZ-985,13,1747,147,66.4,false,true,false,false
+745,Ranbaxy Pharmaceuticals Inc.,LZ-240,15,2280,257,27.2,true,true,true,false
+693,"Physicians Total Care, Inc.",KU-370,14,1168,460,44.7,false,true,true,true
+48,CLINIQUE LABORATORIES INC.,RU-174,61,1049,489,72.4,true,false,false,true
+615,HOMEOLAB USA INC,YS-068,73,1827,359,15.3,false,true,true,false
+491,"Nelco Laboratories, Inc.",OY-506,93,1283,76,52.8,false,false,true,true
+875,Amerifoods Trading Company,XJ-419,92,2151,461,68.3,false,false,false,true
+846,"Aphena Pharma Solutions - Tennessee, LLC",EN-020,12,1129,177,73.9,false,true,true,true
+497,Cadila Healthcare Limited,ZR-760,88,2327,135,53.2,false,true,true,false
+528,"TAYLOR JAMES, LTD.",YI-117,62,2097,90,75.9,false,false,true,false
+351,Cardinal Health,QI-499,39,1906,119,37.2,true,true,false,false
+957,Apotex Corp.,RP-308,80,1593,487,34.7,true,false,false,false
+597,REMEDYREPACK INC.,US-770,79,1895,360,85.8,true,true,true,true
+899,"ALK-Abello, Inc.",MG-490,31,1514,206,47.3,true,true,true,true
+82,"DAVA Pharmaceuticals, Inc.",VB-648,54,2389,209,73.6,false,false,false,true
+972,Humphreyline,DJ-554,16,2385,449,20.8,false,true,true,false
+161,"Antigen Laboratories, Inc.",YO-205,58,1220,386,73.8,false,true,true,false
+368,Skin Deep,IP-176,77,2354,6,94.5,true,true,false,true
+64,"PD-Rx Pharmaceuticals, Inc.",DV-133,69,2021,178,96.7,true,true,false,false
+832,West-Ward Pharmaceutical Corp.,DS-579,87,1737,71,28.3,true,true,false,true
+97,HOMEOLAB USA INC.,GJ-510,11,1496,328,82.2,false,true,true,false
+642,Reckitt Benckiser LLC,LE-977,76,1210,166,92.7,false,false,true,false
+678,Alternative Pharmacy,OX-696,27,2034,338,86.7,true,false,true,false
+617,Pfizer Laboratories Div Pfizer Inc,TH-671,38,1728,245,23.8,false,false,true,true
+527,"Nelco Laboratories, Inc.",RF-184,26,1691,336,96.5,false,true,true,true
+94,Cardinal Health,OH-394,76,2077,199,39.1,true,false,true,true
+264,Apotex Corp,JM-474,93,1060,189,28.4,false,true,false,false
+843,Par Pharmaceutical Inc.,QZ-767,10,1408,134,39.1,true,false,true,true
+156,NARS Cosmetics,LH-657,97,1625,199,60.7,false,true,false,false
+609,Best Choice (Valu Merchandisers Company),XS-705,54,1674,455,91.6,true,false,false,false
+502,Mckesson Corporation,CR-685,76,2018,125,81.2,false,false,true,false
+930,Jose Maria Licona Saenz,CE-527,14,1648,121,67.5,true,false,true,false
+339,Apotheca Inc.,YT-050,84,1225,10,21.7,true,false,true,false
+29,Unit Dose Services,MS-527,36,2495,423,70.0,false,true,true,true
+14,Merle Norman,VP-702,97,1728,201,63.0,false,false,true,false
+20,Meijer Distribution Inc,IR-567,90,2332,487,83.7,false,false,true,true
+627,FORTUNE PHARMACAL COMPANY LIMITED,KU-642,48,1629,77,77.5,true,false,true,true
+47,"Taro Pharmaceuticals U.S.A., Inc.",HQ-029,83,1792,358,65.3,true,false,false,true
+699,St Marys Medical Park Pharmacy,IZ-276,75,1724,13,27.4,true,true,false,true
+80,Rejoice International Inc.,BC-758,51,1236,406,95.0,true,true,false,true
+141,REMEDYREPACK INC.,HY-306,58,1567,488,89.5,true,false,true,true
+704,Aidarex Pharmaceuticals LLC,YU-501,34,1382,173,36.7,true,false,true,false
+210,"Genesis Pharmaceutical, Inc.",IZ-440,26,2109,272,65.8,false,true,true,true
+993,American Sales Company,UV-842,84,2049,318,81.8,false,false,false,false
+244,STAT Rx USA LLC,WE-278,20,1606,29,52.8,true,true,true,true
+268,Procter & Gamble Manufacturing Company,MI-082,98,2390,496,97.7,true,true,true,false
+342,GlaxoSmithKline Consumer Healthcare LP,PQ-478,93,1060,32,78.2,true,false,true,true
+744,REMEDYREPACK INC.,YX-353,77,1315,125,72.5,false,true,false,false
+306,REMEDYREPACK INC.,YB-176,41,1086,187,24.2,true,true,true,true
+291,Proficient Rx LP,HL-644,87,1491,246,83.0,true,true,true,true
+136,Meijer Distribution Inc,MT-336,99,1465,498,49.4,true,true,false,true
+934,Stat Rx USA,TJ-385,74,2318,68,55.1,true,true,false,true
+56,American Health Packaging,HC-525,37,2200,308,64.1,false,true,true,false
+523,Astellas Pharma US Inc.,HN-791,14,2174,56,70.6,true,false,false,true
+975,Uriel Pharmacy Inc.,TR-361,72,1373,42,47.3,false,false,true,true
+585,"Aton Pharma, Inc.",FV-947,32,1583,192,76.6,false,false,true,false
+37,Universal Distribution Center LLC,NC-378,25,1884,383,72.5,true,true,false,true
+750,Greenstone LLC,XA-865,45,1042,471,72.2,true,false,false,true
+496,DZA Brands LLC,LN-321,26,2313,139,26.0,false,false,false,true
+514,"Chattem, Inc.",PM-069,74,2435,439,13.8,true,false,true,true
+763,Lantern Enterprises Ltd,FU-916,96,1153,382,74.3,false,true,false,true
+811,Maniilaq Association,KZ-883,71,1165,180,85.4,false,false,true,false
+520,"Deseret Biologicals, Inc.",KZ-938,21,1712,154,32.9,false,false,true,true
+466,MULTALER ET CIE S.A.S.,UY-266,11,2352,391,11.5,false,false,false,true
+554,"H.J. Harkins Company, Inc.",JX-901,43,1479,119,87.5,true,false,true,false
+344,Triad Group,BQ-282,28,1241,184,51.0,true,true,false,false
+402,"HANBUL COSMETICS CO., LTD.",NB-769,94,1700,219,31.4,false,true,false,true
+705,"Watson Laboratories, Inc.",AP-912,35,1107,240,80.6,true,false,false,false
+457,"Wal-Mart Stores, Inc",VK-254,90,2347,104,82.5,true,true,false,false
+221,Altaire Pharmaceuticals Inc.,SN-092,28,1681,63,43.8,false,false,false,false
+604,P and L Development of New York Corporation (ReadyInCase),EO-124,68,1210,229,28.7,true,false,true,true
+890,"Antigen Laboratories, Inc.",EB-350,100,1356,31,81.6,false,true,true,true
+644,Citron Pharma LLC,UC-185,10,1807,376,66.6,false,false,false,true
+571,Wicsun Trading,RT-323,45,2411,349,50.1,false,true,false,true
+360,"Preferred Pharmaceuticals, Inc.",NX-389,60,2388,273,13.8,false,true,true,true
+176,The Mentholatum Company,DJ-306,70,2455,140,52.8,false,true,true,false
+134,Pharma RomLev Inc.,SH-728,39,2318,41,21.4,false,true,true,true
+621,Bausch & Lomb Incorporated,LZ-892,11,1522,380,68.5,false,true,false,false
+130,"Prestige Brands Holdings, Inc.",EA-006,87,1802,31,97.8,false,false,true,false
+71,Wal-Mart Stores Inc,TI-203,52,2344,101,73.8,false,true,false,false
+49,WAL-MART STORES INC,YN-155,80,1023,202,87.0,false,false,false,true
+337,"Nelco Laboratories, Inc.",LX-551,48,1606,387,39.0,true,false,false,true
+854,"The Hain Celestial Group, Inc.",KY-597,41,1765,47,67.1,false,true,false,false
+385,DIRECT RX,HN-674,43,1856,201,56.7,true,false,true,true
+814,Bayer HealthCare LLC - Consumer Care,XD-866,72,1646,21,49.8,false,false,false,true
+102,G.D. Searle LLC Division of Pfizer Inc,EG-465,60,2473,10,30.8,true,false,true,true
+479,"Unipack, Inc.",VC-087,59,1309,10,64.6,false,false,false,false
+583,Sandoz Inc,KP-701,53,1443,313,51.4,true,false,true,false
+958,Triad Group,RA-127,86,1641,241,34.4,true,false,true,true
+246,North Safety Products,IY-320,96,1569,79,62.6,true,false,false,true
+87,"Aphena Pharma Solutions - Tennessee, LLC",OP-381,40,1101,103,98.3,true,false,false,false
+111,"Watson Pharma, Inc.",TM-588,90,1238,158,92.7,false,true,false,false
+261,CHANEL PARFUMS BEAUTE,IH-606,69,1566,45,98.8,true,true,false,true
+577,International Nature Nutraceuticals,ES-891,98,2282,347,70.7,false,false,false,false
+793,Becton Dickinson Infusion Therapy Systems Inc.,DR-078,56,1240,158,92.8,false,false,false,true
+506,MAKEUP ART COSMETICS,ZK-818,32,1208,7,91.4,true,true,false,true
+518,Cardinal Health,XZ-481,91,2447,420,81.3,true,false,true,true
+34,Par Pharmaceutical Inc,MR-079,39,1885,155,56.0,true,false,false,false
+864,Greenstone LLC,BN-037,11,2265,142,96.7,false,false,true,false
+372,"Newton Laboratories, Inc.",XC-862,78,1568,198,59.8,true,true,false,false
+309,Bryant Ranch Prepack,MW-267,15,2050,286,42.1,true,true,true,false
+650,Uriel Pharmacy Inc.,TJ-986,74,1973,41,86.9,false,true,true,false
+917,"SJ Creations, Inc.",XR-583,32,2424,15,86.7,false,false,false,true
+230,HOMEOLAB USA INC.,RC-287,28,1579,214,24.1,true,false,false,false
+144,KMART CORPORATION,EZ-746,61,1572,293,80.2,true,true,true,false
+100,Safeway,UP-487,17,1276,420,17.9,false,true,true,false
+162,Cardinal Health,WR-229,32,2108,444,35.2,false,true,false,true
+522,"DOLGENCORP, LLC",ME-772,91,1420,273,69.2,false,false,true,true
+249,Major Pharmaceuticals,ED-243,40,2408,118,37.6,true,false,false,false
+982,"Advacare Medical Services, Inc. dba Petersen Medical",BJ-315,55,2035,206,28.1,true,true,false,false
+93,Parfums Christian Dior,OA-750,46,1479,83,83.9,false,true,true,true
+872,Beiersdorf,KF-928,100,2217,454,76.4,false,false,false,false
+85,"Aphena Pharma Solutions - Tennessee, LLC",QG-358,36,1346,121,63.1,true,true,true,true
+223,RedPharm Drug Inc.,RY-837,68,1798,250,86.1,false,true,true,false
+68,American Health Packaging,LT-886,79,1586,491,64.7,true,false,false,false
+369,SUPERVALU INC.,PZ-331,24,2314,77,70.6,false,false,true,true
+321,SiCap Industries LLC,DV-074,62,2473,43,79.0,false,false,false,true
+682,ALMATICA PHARMA INC.,PX-359,42,1520,304,21.5,false,false,true,true
+473,Barr Laboratories Inc.,ZR-543,54,1136,187,73.8,true,true,false,false
+713,SHISEIDO AMERICA INC.,CI-878,52,2456,427,51.0,false,false,true,false
+921,Geritrex Corp.,MI-352,29,2396,413,14.3,true,false,true,true
+397,"WOONSOCKET PRESCRIPTION CENTER,INCORPORATED",DI-142,82,1337,354,34.2,true,true,true,false
+425,"Nelco Laboratories, Inc.",XQ-769,25,2087,106,17.9,false,true,false,false
+885,"Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)",DR-094,31,1657,256,26.0,true,true,false,true
+255,Genuine First Aid LLC,SJ-030,30,1599,53,51.3,true,true,false,true
+118,"Roberts Oxygen Company, Inc.",GJ-335,74,1483,79,61.7,true,false,true,true
+948,"Blenheim Pharmacal, Inc.",RP-716,66,1368,225,59.9,true,true,true,true
+274,"The Yeon Co., Ltd.",DV-258,100,1643,294,34.7,false,false,true,true
+220,"Watson Pharma, Inc.",LZ-260,25,1047,195,91.6,false,false,true,false
+516,DevMar Products LLC,SF-707,92,1377,280,32.0,true,true,true,false
+595,Rebel Distributors Corp,WO-240,33,1220,333,72.7,true,true,true,true
+813,"Newton Laboratories, Inc.",AB-399,54,1743,28,43.9,false,true,true,false
+638,"Blue Cross Laboratories, Inc.",XJ-249,72,1580,68,77.6,true,false,false,false
+783,HART Health,XQ-289,28,1105,133,17.0,true,true,true,false
+525,"Physicians Total Care, Inc.",HB-365,36,1622,437,37.5,false,false,true,true
+829,Cardinal Health,HT-541,51,1614,238,13.2,false,false,false,false
+72,SHISEIDO AMERICA INC.,VA-097,19,1309,440,64.4,false,false,false,false
+778,"Greenbrier International, Inc.",WO-986,96,2239,492,66.9,true,false,false,true
+345,"Henry Schein, Inc.",HW-517,78,1969,451,72.2,false,true,true,true
+228,Bryant Ranch Prepack,AG-840,85,1109,264,81.2,true,true,true,true
+679,"Antigen Laboratories, Inc.",KT-389,28,1972,111,93.0,true,false,true,true
+824,Nex Medical S.A.S. di Villa Annamaria & C.,JE-166,49,2102,48,48.5,false,false,false,true
+326,McKesson,OB-819,80,1552,59,67.8,false,true,false,false
+482,Bryant Ranch Prepack,LM-473,19,1612,6,88.9,false,true,false,false
+201,"Antigen Laboratories, Inc.",SE-907,80,2284,412,66.0,true,true,false,true
+766,Susanne Lang Fragrance Inc.,MR-817,61,2495,499,68.4,false,true,true,true
+113,Mylan Pharmaceuticals Inc.,OK-026,28,2065,208,40.4,true,true,true,true
+352,"Bare Escentuals Beauty, Inc.",AS-150,99,2004,328,94.5,true,true,false,true
+492,Major Pharmaceuticals,WZ-504,94,1643,484,17.3,true,false,true,true
+827,Conopco Inc. d/b/a Unilever,GE-278,49,1292,326,94.4,false,true,true,true
+955,Mylan Pharmaceuticals Inc.,CT-350,97,2101,46,95.4,false,true,true,true
+181,"Gilead Sciences, Inc.",VP-536,37,1054,250,43.4,false,false,false,true
+499,"SJ Creations, Inc.",NX-671,64,2226,218,62.3,false,false,false,false
+619,Ultra Seal Corporation,BL-891,22,1909,389,11.0,false,true,true,true
+994,Family Dollar (FAMILY WELLNESS),GV-262,76,2370,284,55.0,false,true,false,true
+757,"Forest Laboratories, Inc",TM-437,60,2175,34,51.0,false,true,true,false
+688,"GANZ U.S.A., LLC",SK-316,17,1080,105,31.9,false,true,true,false
+412,NorthStar Rx LLC,TS-190,62,1103,235,66.9,false,false,false,false
+16,"Deseret Biologicals, Inc.",AI-592,91,2072,380,18.2,true,false,true,true
+168,"New World Imports, Inc",KG-344,63,1715,487,35.9,false,true,true,true
+868,Mission Hills S.A de C.V,HP-427,18,1553,282,59.4,true,false,false,false
+805,Qualitest Pharmaceuticals,WY-523,69,1089,123,86.9,true,true,false,false
+771,"ASCEND Therapeutics US, LLC",SR-629,10,1442,313,21.0,true,true,true,true
+4,"KVK-TECH, INC",UY-570,61,2386,80,84.7,false,false,true,true
+147,Pfizer Consumer Healthcare,ZU-550,90,1213,495,27.5,true,true,true,false
+608,Jubilant HollisterStier LLC,LH-555,90,2384,243,37.8,true,true,false,false
+211,"Liberty Pharmaceuticals, Inc.",JT-303,99,2267,37,81.5,false,false,true,false
+857,SHISEIDO AMERICA INC.,WE-641,83,1570,391,68.9,false,false,false,false
+657,Kmart Corporation,KN-138,30,1852,293,42.3,false,false,false,true
+560,Dolgencorp Inc,TP-901,12,1942,189,58.1,true,true,false,false
+135,"Physicians Total Care, Inc.",RV-070,53,2413,89,32.2,true,false,true,false
+190,Laboratoires M&L,MT-960,32,2390,381,82.1,false,false,false,false
+381,Aidarex Pharmaceuticals LLC,JH-491,91,2472,473,22.8,true,true,true,true
+472,Molton Brown LTD,KM-412,44,2214,463,28.3,true,false,false,false
+847,CVS Pharmacy,VR-078,71,1022,470,58.3,false,false,false,false
+198,Ventura Corporation Ltd.,FE-413,13,2120,151,24.4,false,false,false,false
+707,Rebel Distributors Corp,LO-905,22,2118,439,47.5,false,true,false,false
+284,Homeocare Laboratories,SO-183,38,2349,477,60.5,true,false,false,true
+818,REMEDYREPACK INC.,NS-537,48,2339,493,45.4,true,false,false,false
+429,"Humco Holding Grou, Inc.",GS-158,76,2167,346,16.3,false,true,true,false
+370,Mylan Institutional Inc.,IS-950,89,1409,81,49.3,false,false,false,true
+995,HOMEOLAB USA INC.,XY-997,45,1178,340,88.5,false,true,true,false
+540,"Prime Packaging, Inc.",PF-839,23,1233,297,90.9,false,true,true,true
+433,"Preferred Pharmaceuticals, Inc",MF-101,36,1690,470,85.4,false,true,false,true
+180,"PruGen, Inc.",HM-110,94,1730,301,71.2,false,false,true,false
+812,Hyland's,VO-491,92,1193,171,72.7,true,true,true,false
+3,"Otsuka America Pharmaceutical, Inc.",GB-935,59,1823,450,14.9,true,false,true,true
+761,Apotex Corp,IU-140,64,1030,328,80.4,true,true,false,false
+280,"Noven Therapeutics, LLC",OE-216,100,1013,400,14.1,false,true,false,false
+367,Aurobindo Pharma Limited,QY-812,17,1615,337,31.1,false,true,false,true
+61,REMEDYREPACK INC.,AP-522,32,2470,303,80.4,false,true,false,false
+236,Rite Aid,OB-741,37,2275,184,33.3,false,true,true,false
+922,"NCS HealthCare of KY, Inc dba Vangard Labs",CQ-474,96,1157,88,24.0,true,true,true,true
+730,Sandoz Inc,OB-318,34,2438,224,81.9,false,true,true,true
+430,"Hospira, Inc.",YU-945,45,1305,348,50.8,false,false,false,false
+802,"Fabrication Enterprises, inc.",FH-460,51,1841,339,27.1,false,false,false,false
+109,Georgia-Pacific Consumer Products LP,DA-114,62,1678,14,36.5,true,true,false,true
+879,KJI Industrial Co Ltd,BK-070,20,1922,445,52.0,true,true,false,false
+886,WOCKHARDT LIMITED,LY-798,87,1924,318,62.6,false,false,true,true
+536,Your Military Exchanges,WQ-354,67,2250,280,50.0,false,false,false,false
+27,Insight Pharmaceuticals LLC,PV-765,52,1543,52,50.4,false,false,false,true
+455,Clinical Solutions Wholesale,YZ-324,93,1335,469,78.2,true,true,true,true
+484,Rij Pharmaceutical Corporation,QX-785,40,1000,338,24.5,true,true,true,false
+887,Amar Remedies Limited,ZH-675,30,1245,489,57.1,false,false,false,false
+96,REMEDYREPACK INC.,VE-042,82,1965,153,50.4,false,false,false,false
+481,STAT Rx USA LLC,HA-205,33,1521,56,46.6,true,false,false,true
+664,"Johnson & Johnson Consumer Products Company, Division of Johnson & Johnson Consumer Companies, Inc.",AF-027,28,1640,372,47.1,false,false,true,false
+193,"Aloe Vera of America, Inc.",AI-593,28,1326,382,91.4,true,false,false,false
+614,"Church & Dwight Co., Inc.",CZ-109,29,1314,472,31.0,false,true,false,true
+185,Burkhart Dental Supply Inc,KN-546,71,2409,473,27.0,true,false,false,false
+581,Weiler Welding Company,LX-878,42,2067,201,23.7,false,false,true,false
+712,American Health Packaging,LD-145,98,1913,432,42.7,false,false,true,true
+722,"Akorn, Inc.",JV-204,68,1031,74,55.4,true,false,false,true
+308,Barr Laboratories Inc.,XE-496,60,1361,123,91.7,true,false,true,false
+739,"Ascend Laboratories, LLC",OV-162,63,2024,199,95.8,true,true,true,false
+582,Baxter Healthcare Corporation,UZ-978,65,1665,95,24.9,true,true,false,true
+632,Energizer Personal Care LLC,PI-752,30,1392,282,92.6,false,false,false,true
+726,DIRECT RX,VC-291,64,1155,200,86.5,false,false,true,true
+271,"MARTIN EKWEALOR PHARMACEUTICALS, INC.",VD-084,83,1063,227,83.2,false,true,true,true
+202,Rebel Distributors Corp,GQ-182,54,2028,482,22.6,false,false,false,true
+645,"Monroe Welding Supply, Inc.",SN-737,66,1915,424,57.7,false,false,false,true
+247,Rite Aid Corporation,LB-014,56,2250,163,22.3,true,true,true,true
+340,HYVEE INC,RL-943,94,1301,345,24.4,false,true,false,true
+140,"Aidance Skincare & Topical Solutions, LLC",XO-913,15,2143,247,74.2,false,false,false,true
+53,"Caraco Pharmaceutical Laboratories, Ltd.",CT-177,49,1923,171,78.3,true,true,false,true
+158,"Blenheim Pharmacal, Inc.",HI-097,47,1677,230,91.3,true,true,false,false
+254,Rebel Distributors Corp,BJ-555,27,1158,35,47.0,true,false,false,false
+300,"Hospira, Inc.",HW-483,47,1439,245,56.5,true,true,true,true
+590,Publix Super Markets Inc,ZI-419,61,1174,131,39.8,false,false,false,false
+628,Lake Erie Medical DBA Quality Care Products LLC,TU-597,96,2088,327,65.7,false,false,true,true
+612,"Norco, Inc.",VK-285,78,1940,104,72.3,false,true,true,true
+731,Novartis Pharmaceuticals Corporation,MC-072,98,2043,78,10.3,false,true,false,false
+602,"PD-Rx Pharmaceuticals, Inc.",AB-392,40,1117,93,65.5,true,false,true,false
+431,AMOREPACIFIC,JB-957,17,2038,488,98.6,false,false,true,true
+508,"Allermed Laboratories, Inc.",LM-832,69,2370,457,29.8,true,true,true,true
+637,"PETNET Solutions, Inc.",XS-108,87,1629,289,28.6,true,false,true,true
+654,Uriel Pharmacy Inc.,LK-342,69,1966,126,46.1,false,true,true,false
+541,"ALK-Abello, Inc.",HA-800,34,2234,45,50.4,false,false,false,false
+241,"PD-Rx Pharmaceuticals, Inc.",ZR-862,81,1859,239,78.0,false,false,false,true
+906,"Preferred Pharmaceuticals, Inc.",QX-339,94,1662,24,49.7,false,true,false,true
+253,"Preferred Pharmaceuticals, Inc",GW-907,67,1303,343,94.1,true,false,true,true
+69,"Stephen L. LaFrance Pharmacy, Inc.",XN-435,17,1480,383,35.3,false,false,true,false
+33,"ALK-Abello, Inc.",BY-690,40,1747,109,50.6,false,false,false,false
+119,Eisai Inc.,QZ-456,81,1970,447,26.0,false,false,false,false
+127,Bryant Ranch Prepack,LW-537,28,1008,404,93.5,false,false,true,false
+680,American Sales Company,QD-142,95,2134,355,45.8,true,true,true,false
+926,Hollister-Stier Laboratories LLC,XB-378,14,1498,439,70.0,false,false,false,true
+38,McKesson Packaging Services Business Unit of McKesson Corporation,XH-791,76,1948,21,82.9,true,false,true,true
+911,American Health Packaging,CT-867,48,1452,262,96.5,false,true,false,false
+289,A-S Medication Solutions LLC,IF-704,30,2434,165,78.6,true,false,true,true
+935,"Nelco Laboratories, Inc.",XC-348,17,1955,211,93.4,true,false,true,true
+870,CVS Pharmacy,GQ-829,85,2337,71,28.6,false,true,false,true
+203,"Paddock Laboratories, Inc.",ZW-657,85,2425,450,27.7,false,false,false,true
+46,CVS PHARMACY,AI-652,81,1556,13,53.7,false,false,true,true
+155,sanofi-aventis U.S. LLC,BL-203,100,1041,155,51.1,false,true,true,true
+667,Premier Value,BS-577,15,1092,244,20.3,false,false,true,false
+106,AMWAY CORP.,SZ-245,16,1652,474,83.5,false,false,false,true
+760,Boots Retail USA Inc,NL-752,74,1474,20,12.4,true,true,true,false
+720,Actavis South Atlantic LLC,PC-328,45,2148,206,64.2,true,true,false,true
+656,"AMI Cosmetic Co.,Ltd.",ZN-441,74,1583,418,62.1,true,false,true,true
+804,HOMEOLAB USA INC.,WP-107,73,1301,272,28.4,true,true,true,false
+432,"GOWOONSESANG COSMETICS CO., LTD.",ET-036,71,1812,201,17.9,false,false,true,true
+970,Mylan Pharmaceuticals Inc.,SA-415,16,1716,408,17.3,true,false,true,false
+458,"Newton Laboratories, Inc.",BU-948,71,1203,424,58.9,true,false,true,false
+851,"Antigen Laboratories, Inc.",XU-731,81,2007,33,21.9,false,true,false,true
+379,"Allergan, Inc.",UI-383,60,1365,233,46.2,false,false,true,true
+860,"Church & Dwight Co., Inc.",ZW-286,59,1888,487,51.2,true,true,true,false
+603,Guna spa,PK-927,71,1311,445,50.9,false,false,true,false
+531,"Prime Packaging, Inc.",OA-807,99,2352,395,38.5,true,true,true,false
+672,"Preferred Pharmaceuticals, Inc.",NG-462,45,2317,475,32.6,false,false,false,true
+265,Mylan Pharmaceuticals Inc.,JH-250,60,1804,139,74.6,true,false,false,false
+661,Rite Aid,MJ-101,35,1568,213,58.9,false,true,true,true
+923,"Breckenridge Pharmaceutical, Inc.",VE-670,81,2461,163,23.5,true,false,false,false
+451,Mylan Pharmaceuticals Inc.,HM-022,45,2473,135,91.5,false,false,false,false
+494,Rochester Pharmaceuticals,UG-143,55,1260,212,96.4,true,false,false,true
+172,The Procter & Gamble Manufacturing Company,AH-067,12,2110,467,12.2,true,true,true,false
+532,American Health Packaging,UO-711,95,1297,198,18.3,false,true,true,false
+791,"Showline, Inc.",FQ-379,51,1589,423,30.1,true,true,true,true
+392,Mylan Pharmaceuticals Inc.,VB-607,21,2154,402,66.0,false,false,true,true
+969,"Roxane Laboratories, Inc",YN-123,40,1827,40,84.9,false,true,false,true
+981,Qualitest Pharmaceuticals,VF-927,58,1537,347,75.1,true,true,false,false
+164,REMEDYREPACK INC.,BN-353,28,1158,196,63.4,true,false,false,true
+243,Cardinal Health,FN-493,39,2025,399,81.7,true,false,true,true
+593,"Hospira, Inc.",NV-273,20,2012,384,88.8,false,true,true,true
+9,DZA Brands LLC,VO-246,78,2031,102,21.4,false,true,true,false
+737,"Med Health Pharma, LLC",AM-583,42,2322,322,67.0,false,false,false,false
+566,Alaven Pharmaceutical LLC,LZ-833,45,1087,133,84.7,true,true,true,true
+501,Apotheca Company,VN-689,49,1931,364,22.7,false,false,false,true
+361,Pain and Stress Center Products,RP-190,92,2061,425,80.1,true,true,false,true
+776,Bryant Ranch Prepack,SJ-614,33,2148,236,72.4,false,true,false,true
+178,REMEDYREPACK INC.,EZ-936,24,2101,83,10.4,true,false,false,true
+964,Rimmel Inc.,IW-405,55,2149,411,97.7,false,true,true,true
+325,Mylan Pharmaceuticals Inc.,YS-757,42,1567,287,77.2,false,true,false,false
+213,"Accord Healthcare, Inc.",TQ-035,91,1109,255,17.3,true,true,false,false
+1000,Cardinal Health,MX-235,64,2483,492,95.1,true,true,true,true
+122,"Humco Holding Group, Inc.",GS-109,29,1185,189,92.1,true,false,false,false
+461,Rebel Distributors Corp,DE-909,32,1381,206,18.6,true,false,true,true
+394,"Preferred Pharmaceuticals, Inc.",YK-261,85,2355,257,53.8,false,false,false,false
+883,"Chattem, Inc.",PL-134,74,2087,482,16.6,true,true,false,false
+573,"Mallinckrodt, Inc.",FJ-513,84,2131,40,98.9,true,true,false,true
+242,"Nelco Laboratories, Inc.",EM-112,95,1989,393,91.9,false,false,true,false
+606,Topical Pharmaceuticals Inc.,DE-442,18,1863,212,89.9,true,true,false,false
+622,American Health Packaging,FM-319,59,1595,285,61.2,false,false,false,true
+960,"Hospira, Inc.",WI-182,98,1644,127,67.3,false,true,true,true
+396,Topco Associates LLC,HV-322,44,2363,39,47.3,false,true,true,false
+1,"Stephen L. LaFrance Pharmacy, Inc.",IZ-002,40,1206,316,39.5,false,true,true,true
+601,"Ilex Consumer Products Group, LLC",SI-735,10,1035,485,18.4,false,false,true,false
+31,Sun Pharma Global FZE,NV-408,60,1473,193,64.6,false,true,false,false
+668,Aidarex Pharmaceuticals LLC,LN-729,16,1827,7,14.3,true,true,true,true
+175,QINGHAI ZANGYUANTANG BIO-TECH CO LTD,CA-392,62,1440,251,12.5,true,false,true,false
+568,Physician Therapeutics LLC,BO-154,62,1224,354,96.2,true,true,true,true
+413,Golden Touch LLC,KL-876,89,1059,435,94.1,false,true,false,true
+50,Alaven Pharmaceutical LLC,HP-221,22,1459,267,37.6,true,false,true,false
+500,J. A. Cosmetics U.S. INC,BP-750,78,1130,366,41.7,true,true,true,false
+539,"ALK-Abello, Inc.",GD-862,21,1029,72,50.3,true,true,false,false
+354,WALGREEN COMPANY,BW-867,67,1628,19,60.5,true,true,false,false
+936,"Hospira, Inc.",LJ-310,28,1257,117,12.2,true,true,false,false
+333,"Straight Arrow Products, Inc.",DI-918,36,1695,372,51.5,true,false,false,true
+323,"Physicians Total Care, Inc.",CZ-346,59,1952,349,88.7,true,true,true,false
+231,AR Medicom Inc,HA-311,66,2248,383,32.3,true,true,true,false
+634,Efficient Laboratories Inc,OJ-213,13,1986,244,88.6,false,true,true,true
+324,Heritage Pharmaceuticals Inc.,CM-555,10,1422,61,82.2,false,true,true,false
+363,"Ventura Corporation, LTD",IQ-484,45,1262,372,93.9,false,true,true,false
+942,"Hospira, Inc.",OH-388,24,1012,226,88.9,true,true,false,false
+117,Mylan Pharmaceuticals Inc.,PG-138,58,1622,320,23.7,false,false,false,true
+605,Bausch & Lomb Incorporated,XL-398,27,2022,157,42.5,false,false,false,true
+346,Novartis Pharmaceuticals Corporation,JF-729,100,1948,458,66.9,false,true,false,false
+251,"NCS HealthCare of KY, Inc dba Vangard Labs",YR-457,85,1389,475,51.0,false,false,true,true
+226,REMEDYREPACK INC.,NO-833,47,2449,291,20.1,true,false,false,false
+764,"Wolf Industries dba Grace Healthcare, Inc",YS-019,67,1566,368,35.6,false,false,false,true
+387,AGILA SPECIALTIES PRIVATE LIMITED,VH-490,63,1211,12,77.0,false,true,false,true
+892,Parfums Christian Dior,PF-912,88,2075,437,86.8,true,false,true,false
+126,American Health Packaging,MI-117,47,1456,135,12.7,true,false,true,true
+384,REMEDYREPACK INC.,WP-514,22,1874,405,46.1,true,false,true,true
+2,"Church & Dwight Co., Inc.",VP-930,63,1305,34,81.5,true,true,true,true
+652,"Par Pharmaceutical, Inc.",CH-656,12,1713,374,53.6,false,false,true,true
+343,Jubilant HollisterStier LLC,BS-769,98,1819,405,50.8,true,true,true,true
+44,Torrent Pharmaceuticals Limited,YN-364,80,2047,20,39.7,true,true,false,false
+488,Barr Laboratories Inc.,EX-997,61,1617,220,12.1,true,true,false,false
+692,Tween Brands Inc,QU-100,92,2344,357,66.1,true,false,false,false
+640,"PSS World Medical, Inc.",VZ-451,19,1623,276,46.6,true,true,true,true
+65,Dispensing Solutions Inc.,OV-521,91,1314,456,19.0,false,false,true,true
+697,"JHP Pharmaceuticals, LLC",XY-512,12,2192,117,88.5,true,true,false,true
+903,Homeocare Laboratories,LF-402,52,2257,460,33.3,false,true,true,true
+641,Sandoz Inc,UL-730,68,1937,476,56.7,true,false,true,true
+589,Dr.Reddy's Laboratories Limited,MS-536,75,1301,399,94.6,false,false,true,false
+347,Sun Pharmaceutical Industries Limited,QI-602,58,2120,403,79.3,true,false,true,true
+57,"Best Sanitizers, Inc",GZ-388,46,1873,206,81.1,true,true,true,false
+8,"Asclemed USA, Inc.",IQ-328,94,2227,419,73.6,true,true,true,false
+715,Publix Super Markets Inc,MR-597,46,1677,284,47.2,false,true,false,true
+956,Zep Inc.,KS-822,38,1467,408,44.6,false,false,false,false
+968,Apotheca Company,RB-128,20,2483,416,92.0,true,true,true,false
+377,Safeway,UV-039,10,2496,169,22.9,false,true,true,false
+157,Lake Erie Medical DBA Quality Care Products LLC,UF-108,54,1855,463,37.2,true,true,false,true
+273,Proficient Rx LP,MT-486,43,1771,299,55.0,false,false,false,true
+419,Qualitest Pharmaceuticals,RZ-330,60,2109,356,49.0,true,false,false,false
+74,"Bradford Soap Works, Inc.",HC-540,62,1579,14,69.7,true,false,true,true
+438,HOMEOLAB USA INC,AO-501,71,1598,409,61.3,false,true,true,false
+855,Cardinal Health,KM-723,89,1581,280,94.4,true,true,false,false
+486,DIRECT RX,IS-106,10,2498,66,73.2,true,true,false,false
+454,International Nature Nutraceuticals,ER-206,42,2025,449,67.6,true,false,true,true
+882,Home Sweet Homeopathics,SP-073,77,1187,150,72.2,true,true,true,false
+307,REMEDYREPACK INC.,VQ-357,62,1839,148,52.9,false,false,true,true
+191,A-S Medication Solutions LLC,YG-913,40,2130,352,20.2,true,false,true,true
+965,Mylan Pharmaceuticals Inc.,LI-736,72,1065,348,59.4,false,false,true,true
+884,SHISEIDO AMERICA INC.,IK-573,81,1357,200,29.7,false,false,false,true
+963,Novartis Pharmaceuticals Corporation,RZ-326,96,1406,414,34.5,true,false,false,false
+423,"Just Play, LLC",HV-701,62,1506,230,87.9,false,true,false,false
+758,"MSD Consumer Care, Inc.",ME-496,36,2416,352,55.2,true,false,false,true
+151,"Cypress Pharmaceutical, Inc",DR-277,34,1041,300,55.1,true,true,true,false
+795,"ALK-Abello, Inc.",FP-711,15,1781,42,87.6,true,true,false,true
+821,Butler Gas Products Company,VO-388,88,1984,33,46.3,false,false,true,true
+996,"Artesa Labs, LLC",CO-922,35,1981,144,33.9,true,true,true,false
+806,Premier Value,QX-917,27,1033,442,34.8,true,false,false,true
+984,Health Mart,ZB-133,17,2296,385,43.6,false,false,true,false
+675,EQUALINE (SuperValu),LT-976,14,2379,16,18.9,false,false,true,true
+298,"AvKARE, Inc.",YL-069,47,2288,146,14.5,true,true,true,false
+762,Unit Dose Services,GS-414,36,2446,493,25.6,true,true,true,false
+434,West-Ward Pharmaceutical Corp.,VN-040,29,2177,431,68.6,false,true,true,true
+616,STAT RX USA LLC,LV-985,40,2334,53,57.5,false,false,false,true
+467,CHANEL PARFUMS BEAUTE,JS-717,71,2159,375,81.9,true,false,false,false
+224,"Medline Industries, Inc.",RT-060,50,1370,70,94.3,false,true,true,true
+350,Kimberly-Clark Corporation,EC-743,53,1445,393,47.4,true,false,true,false
+743,REMEDYREPACK INC.,IA-042,63,1552,274,10.2,true,true,true,true
+620,State of Florida DOH Central Pharmacy,JN-678,84,1218,476,81.1,true,true,true,false
+123,Lake Erie Medical Surgical & Supply DBA Quality Care Products LLC,TO-556,64,1496,243,88.2,true,true,false,false
+73,Bryant Ranch Prepack,GI-793,26,2324,469,56.6,true,true,false,false
+474,"Electrolyzed Innovations, LLC",IN-597,28,2002,42,93.1,true,false,true,false
+170,"ABC Compounding Co., Inc.",PY-105,11,1662,490,69.9,false,false,true,true
+23,"Aidance Skincare & Topical Solutions, LLC",XS-669,52,1332,210,56.2,false,false,true,false
+311,"Mallinckrodt, Inc.",YA-790,46,1264,253,19.8,true,false,true,false
+294,Haemonetics Manufacturing Inc.,YR-134,22,1465,102,32.4,false,false,false,true
+121,Atlantic Biologicals Corps,JD-740,18,1042,306,62.4,true,true,true,true
+336,"ALK-Abello, Inc.",CO-734,80,2063,273,89.5,true,true,false,true
+591,Proficient Rx,BL-843,97,1651,411,94.9,false,false,false,true
+592,"Andy-Oxy Co., Inc.",MN-900,37,1400,99,14.5,false,false,true,false
+365,Amerisource Bergen,PD-208,19,1056,150,52.5,true,false,false,true
+192,Heel Inc,AV-754,90,2476,78,69.9,true,true,false,true
+217,SHISEIDO AMERICAS CORPORATION,JW-856,97,2002,37,55.7,true,false,true,true
+310,"Laura Geller Beauty, LLC",PJ-568,100,1319,253,84.1,false,true,false,true
+366,China Ningbo Shangge Cosmetic Technology Corp.,YI-274,12,2278,475,90.0,true,false,true,false
+659,"Physicians Total Care, Inc.",HL-644,83,2169,53,14.8,true,false,true,true
+578,Target Corporation,NH-600,65,1328,302,74.1,true,true,true,true
+519,REMEDYREPACK INC.,BE-382,20,1710,453,34.5,true,true,false,true
+399,"Lupin Pharmaceuticals, Inc.",UR-936,82,1071,476,96.6,true,false,true,false
+991,Qualitest Pharmaceuticals,BP-571,37,1420,279,20.5,false,true,true,false
+876,AMOREPACIFIC,VX-676,15,1031,369,24.0,false,true,false,false
+564,Sunrise Pharmaceutical Inc,NJ-058,45,1124,450,80.5,false,true,true,false
+222,"Energique, Inc.",FB-695,11,1087,217,88.1,true,true,true,true
+819,"Allergan, Inc.",UY-183,95,1239,361,27.5,false,false,false,true
+794,"ALK-Abello, Inc.",WP-527,37,2043,39,14.8,false,true,false,false
+293,Dolgencorp Inc,XJ-090,75,1589,346,91.8,true,false,true,true
+418,Shionogi Inc.,VN-583,64,1777,264,45.0,true,true,false,true
+701,"Physicians Total Care, Inc.",UX-420,97,1438,126,76.2,false,false,true,false
+206,Rebel Distributors Corp,SJ-396,56,1169,167,40.9,false,true,false,false
+128,Austin Biotechnology Inc,UF-152,23,1834,393,73.9,true,false,true,true
+686,"Allergy Laboratories, Inc.",RB-982,92,2452,365,83.1,false,false,true,false
+815,"Premier Value (Chain Drug Consortium, LLC)",XO-321,68,1132,71,24.6,true,true,true,true
+233,"Autumn Harp, Inc.",TX-385,81,2425,463,42.4,false,false,true,true
+295,"Esquire Gas Products Company, Inc",FY-419,20,1875,272,82.9,true,false,true,false
+212,"Morton Grove Pharmaceuticals, Inc.",IB-056,18,1696,213,79.7,true,true,true,false
+700,REMEDYREPACK INC.,QH-276,73,2329,54,10.3,true,true,false,true
+954,Avema Pharma Solutions,VT-845,43,1186,498,98.8,true,false,false,true
+765,CODAA Switzerland / Euro Sensations,AY-297,91,1018,271,62.6,true,false,false,false
+588,"Falcon Pharmaceuticals, Ltd.",WC-150,53,1393,42,64.8,false,false,true,true
+788,Ventura Corporation LTD.,HA-987,45,1299,380,14.0,false,false,false,true
+59,Sandoz Inc,VS-139,85,1389,264,66.8,true,true,false,false
+282,Neutrogena Corporation,NK-955,74,2419,142,53.7,false,true,false,true
+90,"Deseret Biologicals, Inc.",BZ-870,95,2196,361,72.6,true,false,false,false
+874,REMEDYREPACK INC.,AD-915,70,1471,437,56.1,true,true,false,true
+635,CVS Pharmacy,EL-652,20,1089,84,47.1,true,true,true,true
+390,Major Pharmaceuticals,SN-291,68,1984,47,25.0,true,false,false,false
+943,United Exchange Corp.,LV-895,46,1829,371,79.3,false,false,false,false
+355,"Chattem, Inc.",KB-393,56,1279,406,68.1,true,true,true,false
+209,Rebel Distributors Corp,GM-442,57,2206,79,63.8,false,true,true,false
+853,"Caraco Pharmaceutical Laboratories, Ltd.",VM-115,93,1193,485,82.2,true,true,true,true
+302,"Triax Pharmaceuticals, LLC",NR-332,79,1217,189,72.3,true,true,true,false
+630,"NATURE REPUBLIC CO., LTD.",BZ-528,21,1095,34,56.6,true,true,true,true
+422,"ALK-Abello, Inc.",TK-416,97,1311,55,60.3,false,true,true,false
+407,Valeant Pharmaceuticals North America LLC,RP-179,76,2377,363,72.9,false,true,true,true
+219,American Health Packaging,PF-357,50,1749,414,42.0,true,true,false,true
+797,"Nelco Laboratories, Inc.",QV-106,72,1641,439,98.8,false,true,false,false
+579,Apotex Corp.,NE-879,34,1353,413,74.6,true,false,false,true
+225,"Physicians Total Care, Inc.",MX-703,54,1162,206,30.2,false,true,false,true
+188,"NCS HealthCare of KY, Inc dba Vangard Labs",QZ-748,92,1741,324,67.2,false,false,true,false
+517,Conopco Inc. d/b/a Unilever,JF-164,72,1572,63,88.1,true,false,true,false
+92,E. Fougera & Co. a division of Fougera Pharmaceuticals Inc.,XO-239,35,1689,414,46.7,false,true,true,false
+67,Evergreen Supply Inc,UB-425,48,1109,442,83.7,false,true,false,true
+752,Baxter Healthcare Corporation,VU-482,76,2005,44,89.5,false,true,false,false
+356,"H.J. Harkins Company, Inc.",AR-211,46,1037,121,14.3,true,false,false,true
+380,Raphabio Inc,BD-488,21,2374,456,67.9,false,true,true,true
+362,Sandoz Inc,XH-039,54,1332,353,14.7,false,true,false,false
+900,"PhotoMedex, Inc.",LZ-824,92,1240,274,86.6,true,true,false,true
+777,Lake Erie Medical DBA Quality Care Products LLC,RF-346,69,2339,366,35.9,false,false,false,true
+784,UV Natural International Pty Ltd,WS-067,34,2287,212,83.4,true,true,false,false
+70,Conopco Inc. d/b/a Unilever,WN-371,83,1769,179,78.3,true,false,true,true
+753,"Actavis Pharma, Inc.",CU-095,20,2066,222,94.4,false,true,true,false
+538,"Antigen Laboratories, Inc.",QY-370,78,1183,218,15.2,false,false,true,true
+42,"Colgate Oral Pharmaceuticals, Inc.",DK-385,97,1227,437,16.2,true,true,false,false
+138,"Physicians Total Care, Inc.",CL-199,94,2444,345,19.5,false,false,false,true
+714,"Camber Pharmaceuticals, Inc.",SA-002,37,1293,384,27.4,true,true,true,true
+341,Carilion Materials Management,ZU-986,74,1591,105,69.2,true,true,true,false
+535,American Sales Company,TX-943,61,1926,237,43.3,true,false,false,true
+471,AvPAK,RM-782,28,1031,482,40.6,true,false,false,true
+277,"Liddell Laboratories, Inc.",CX-686,56,2212,471,16.2,true,false,false,false
+218,"Watson Laboratories, Inc.",QL-348,88,2318,324,68.2,true,true,false,false
+848,Cardinal Health,ZV-834,75,1878,81,23.8,true,true,true,false
+562,H E B,FT-191,48,1328,180,59.1,true,false,true,true
+660,STAT Rx USA LLC,JB-930,74,2463,420,53.3,false,false,true,true
+283,Sandoz Inc,FD-327,27,1608,390,69.0,true,true,false,false
+52,"Nelco Laboratories, Inc.",FY-130,20,2232,140,81.8,false,false,false,false
+15,"Blenheim Pharmacal, Inc.",EO-673,65,1371,450,25.0,false,false,false,true
+789,Apotheca Company,EP-272,59,1029,82,83.9,true,false,true,true
+490,CHANEL PARFUMS BEAUTE,MG-518,16,1457,217,37.5,false,true,false,true
+780,McKesson,GF-017,59,1221,432,32.6,true,true,true,false
+881,"Chain Drug Consortium, LLC (Premier Value)",GY-703,66,1092,147,82.5,true,false,false,false
+477,"Shopko Stores Operating Co., LLC",FZ-773,47,2257,15,66.3,true,false,false,true
+449,KMart Corporation,PR-326,86,2440,301,97.9,true,true,true,false
+863,Gil Pharmaceutical Corp,ZR-013,19,1676,118,21.6,true,true,true,true
+36,STAT Rx USA LLC,QH-925,33,1572,143,90.9,true,false,true,false
+550,Procter & Gamble Manufacturing Company,RF-920,87,1205,312,36.1,false,true,false,false
+498,REMEDYREPACK INC.,QJ-025,95,2035,101,38.0,false,true,true,true
+76,"E-Z-EM, INC.",KV-867,65,1408,457,96.9,false,false,true,true
+920,Jubilant HollisterStier LLC,ZM-960,31,1754,133,48.7,true,true,true,true
+574,Creative Cosmetics Inc. dba CCI,MH-656,22,1114,459,93.0,false,true,true,false
+671,Bryant Ranch Prepack,XW-650,34,2361,268,76.3,false,true,true,true
+124,Kmart Corporation,FP-454,32,2125,411,66.5,false,false,false,true
+691,"Ventura International, LTD",WM-222,45,1352,237,50.4,false,true,false,true
+5,"Medline Industries, Inc.",OS-966,30,1861,95,52.3,false,true,false,true
+833,"Access Business Group, LLC",KV-837,74,1082,144,17.7,false,true,false,false
+401,Reckitt Benckiser LLC,TR-171,93,1154,450,33.7,true,false,true,true
+262,"BioActive Nutritional, Inc.",CR-186,64,1987,192,65.3,true,true,true,true
+240,"Antigen Laboratories, Inc.",TP-661,100,1633,158,60.4,false,true,true,true
+6,"AvKARE, Inc.",JX-353,35,1362,419,73.6,false,true,false,false
+974,"Antigen Laboratories, Inc.",KQ-541,76,1266,194,55.5,false,false,false,false
+932,"Gavis Pharmaceuticals, LLC.",MC-819,38,1988,479,34.8,false,false,false,false
+613,"Antigen Laboratories, Inc.",FZ-860,41,1467,464,50.7,true,false,true,true
+194,"Nelco Laboratories, Inc.",TQ-809,79,2429,188,25.2,false,false,true,false
+95,NorthStar RxLLC,AP-707,49,1919,484,53.2,false,false,true,false
+313,Zapatol Corp.,VN-217,71,1206,29,64.8,false,true,false,true
+495,Kay Chemical Company,VB-204,53,1662,147,68.6,true,true,true,true
+754,"Tropical Seas, Inc.",KJ-985,15,1911,451,68.4,true,false,false,false
+132,Energizer Personal Care LLC,HG-504,36,1481,229,97.5,false,true,true,true
+643,American Health Packaging,QL-739,42,1849,315,64.3,false,true,true,true
+116,"Antigen Laboratories, Inc.",RV-614,77,1382,83,11.4,true,true,true,false
+639,"International Medication Systems, Limited",HF-071,81,1126,475,79.1,true,true,false,true
+316,TIME CAP LABS INC,IO-012,44,1458,187,81.6,true,false,true,true
+741,"Nan Mei Pharmaceutical Co., Ltd.",LX-903,82,1447,399,25.8,false,false,false,true
+547,"Fresenius Kabi USA, LLC",IQ-015,64,1499,339,72.6,true,false,false,true
+330,Mylan Pharmaceuticals Inc.,MH-357,34,2047,247,42.1,true,true,true,false
+257,"Nelco Laboratories, Inc.",UQ-137,86,2066,472,27.2,true,false,true,true
+636,Citron Pharma LLC,CF-732,19,1558,268,19.4,false,false,false,false
+662,Washington Homeopathic Products,SB-649,29,1399,59,67.8,false,false,false,true
+709,"Amneal Pharmaceuticals, LLC",UF-685,74,1900,335,99.0,false,true,true,false
+985,Industrias Lavin de Mexico S.A. de C.V.,VT-443,52,1471,331,87.8,false,false,true,false
+12,Apotheca Company,RX-637,15,1547,387,78.1,true,true,false,true
+60,Baxter Healthcare Corporation,HV-018,83,2316,25,24.5,false,true,true,false
+706,Ventura International LTD.,RV-297,50,1921,303,70.5,false,false,true,true
+165,"Airgas-West, Inc.",MS-920,85,1475,101,54.8,false,true,false,false
+816,Dr Reddys Laboratories Inc,OF-184,98,1205,451,34.8,true,true,true,false
+62,ARMY AND AIR FORCE EXCHANGE SERVICE,DG-118,82,1556,42,37.1,false,false,false,true
+395,"Shopko Stores Operating Co., LLC",BV-346,83,2328,468,13.7,false,true,true,false
+553,Highland Consumer Products,DB-558,99,2293,330,63.3,true,false,true,false
+896,Jubilant HollisterStier LLC,EA-883,85,2379,94,81.2,true,true,false,false
+142,J. A. Cosmetics U.S. INC,IM-779,60,1480,29,90.8,false,true,false,true
+358,Neutrogena Corporation,GI-824,29,1136,294,57.1,true,true,false,true
+378,"Physicians Total Care, Inc.",QK-501,80,1561,215,23.4,true,false,true,false
+205,"Roxane Laboratories, Inc.",WF-052,67,2211,232,53.1,true,false,true,false
+174,"Physicians Total Care, Inc.",LH-720,69,1710,287,76.3,false,true,true,true
+733,Cardinal Health,VQ-853,100,1177,55,97.6,false,false,true,true
+108,Family Dollar Services Inc,SQ-773,67,2305,311,16.0,false,true,false,true
+631,KANEBO COSMETICS INC,JN-457,30,1572,182,59.8,true,false,false,true
+967,REMEDYREPACK INC.,LQ-057,23,2236,97,56.5,true,true,false,true
+35,Amedra Pharmaceuticals LLC,IZ-792,76,1345,43,89.7,false,false,false,false
+21,"Actavis Pharma, Inc.",WI-786,23,1928,422,12.1,false,false,true,true
+196,Beiersdorf Inc,KR-947,18,1980,37,89.9,false,true,true,false
+177,Teva Pharmaceuticals USA Inc,TL-045,51,1348,159,50.9,false,false,true,false
+673,Northstar RxLLC,MC-729,66,2046,483,22.0,false,true,true,true
+629,Walgreens Company,WE-303,31,1149,280,89.4,true,true,false,true
+586,"ALK-Abello, Inc.",HF-119,13,1343,454,19.3,false,false,false,true
+63,"Nelco Laboratories, Inc.",WG-975,45,1014,115,78.4,true,false,true,false
+826,Uriel Pharmacy Inc.,AF-928,24,1426,22,50.4,false,true,true,false
+599,"Roxane Laboratories, Inc.",EN-110,51,2025,414,47.6,true,true,true,false
+735,"TAYLOR JAMES, LTD.",RM-774,21,2419,276,17.9,false,false,true,true
+674,Reckitt Benckiser LLC,JP-812,74,1862,185,12.9,false,true,false,false
+83,"Alcon Laboratories, Inc.",UA-013,85,2108,36,32.0,true,true,true,false
+504,NASH-FINCH COMPANY,UW-335,92,1629,68,29.2,false,true,false,false
+145,Cardinal Health,XV-403,11,1084,227,86.7,true,true,true,false
+278,"Nova Homeopathic Therapeutics, Inc.",CB-531,59,1802,69,86.3,true,true,true,true
+768,"BioActive Nutritional, Inc.",ZR-543,70,1819,424,12.6,true,true,true,true
+227,ViiV Healthcare Company,HI-039,99,2473,309,64.8,true,false,true,true
+567,Target Corporation,ET-386,99,2249,345,55.2,false,true,true,true
+790,"Taro Pharmaceuticals U.S.A., Inc.",JW-090,66,1438,293,93.2,false,true,false,true
+677,Kinray Inc.,TG-284,85,1635,195,11.7,false,true,true,false
+459,Taro Pharmaceuticals U.S.A. Inc.,YR-675,24,2120,331,27.0,true,true,true,true
+312,"Janssen Pharmaceuticals, Inc.",YA-411,46,1717,468,30.7,false,true,true,true
+383,Oral-B Laboratories,RB-448,22,1854,322,81.7,true,true,false,false
+287,"HARRIS Pharmaceutical, Inc.",OQ-219,34,1855,296,73.9,true,false,false,true
+698,"Graceway Pharmaceuticals, LLC",UI-395,39,2135,325,76.4,true,false,false,true
+742,Bellegrove,VQ-461,38,2069,444,27.0,false,true,false,false
+446,"Dispensing Solutions, Inc.",ZK-681,11,1627,79,85.1,false,true,true,false
+931,"Physicians Total Care, Inc.",LZ-311,43,1982,351,10.5,true,true,false,true
+512,Bryant Ranch Prepack,QT-496,68,2311,373,42.4,true,true,false,true
+836,P and L Development of New York Corporation (ReadyInCase),JM-966,62,1271,288,53.3,false,true,true,false
+946,McKesson,IH-502,97,1736,139,32.0,true,true,true,false
+953,"BioActive Nutritional, Inc.",GI-539,82,1278,186,68.1,true,true,false,true
+841,"Fenwal, Inc.",WU-335,13,1533,242,33.2,true,false,true,true
+633,BJWC,HZ-292,90,1041,48,33.1,true,false,false,true
+40,REMEDYREPACK INC.,TG-435,61,2240,425,86.9,false,false,false,false
+557,SAM'S WEST INC.,OR-881,68,1779,279,72.4,true,true,true,true
+533,Major Pharmaceuticals,YL-429,26,1016,101,20.4,true,false,false,false
+648,American Health Packaging,UC-216,26,2486,418,34.6,true,false,false,true
+77,Walgreen Company,LW-946,45,2286,320,90.5,false,true,true,false
+909,"Aptalis Pharma US, Inc.",NY-669,43,1770,213,47.2,false,false,true,false
+587,Sanum Kehlbeck GmbH & Co. KG,NR-712,95,1353,137,82.5,false,false,false,true
+319,"Libertas Pharma, Inc.",UB-623,92,1049,111,92.2,false,true,true,false
+537,Heritage Pharmaceuticals Inc.,TB-011,55,2335,454,74.0,false,false,false,true
+849,Bryant Ranch Prepack,FY-544,20,1237,169,50.0,true,false,true,false
+933,BIOKEY INC.,DK-423,65,1389,87,98.8,false,true,true,true
+708,Shasun Pharmaceuticals Limited,TF-165,30,1303,437,43.2,true,false,false,false
+945,"Avon Products, Inc.",ZQ-717,65,1541,480,19.8,true,false,false,false
+238,Kramer Novis,XE-911,25,2244,399,74.1,true,true,true,true
+952,"ALK-Abello, Inc.",WZ-746,67,2137,498,16.3,true,false,false,true
+782,Xcentrik Inc.,GT-306,24,2266,498,22.7,false,false,true,false
+655,"Western Family Foods, Inc.",RV-767,21,1228,71,89.8,true,true,true,false
+658,American Health Packaging,QZ-054,85,1755,500,13.8,true,true,true,true
+749,"Hospira, Inc.",LQ-829,99,1496,491,68.4,true,true,true,false
+197,Apotheca Company,RV-108,53,1317,460,81.2,false,false,false,false
+322,CVS Pharmacy,BV-637,80,1020,496,55.7,true,false,true,true
+844,Amgen Inc,CT-555,14,1371,107,65.3,false,false,false,true
+623,sanofi-aventis U.S. LLC,WS-651,75,1687,427,37.9,true,true,true,false
+416,"Golden State Medical Supply, Inc.",HW-023,30,1656,61,77.6,true,false,false,false
+910,"Neutraderm, Inc.",CG-540,68,1040,404,19.7,false,false,true,true
+483,B. Braun Medical Inc.,OY-785,17,1381,424,74.1,true,false,false,true
+894,Select Corporation,CW-404,14,1898,327,57.7,true,false,false,true
+987,Bryant Ranch Prepack,OK-949,85,1909,136,56.5,true,false,false,true
+166,"EQUATE (Walmart Stores, Inc.)",AT-007,30,1630,39,59.7,true,true,false,true
+507,HOMEOLAB USA INC.,TW-260,49,1969,139,96.6,false,true,false,true
+411,International Cosmetics Ltd.,NR-368,64,2462,388,71.8,true,false,true,false
+891,"Taro Pharmaceuticals, Inc.",MY-938,95,2020,207,76.9,false,false,true,true
+785,Reckitt Benckiser LLC,KS-893,34,2171,120,30.7,true,true,true,false
+245,"Covis Pharmaceuticals, Inc.",KW-662,54,1346,15,17.0,true,false,false,true
+406,"Golden State Medical Supply, Inc.",PO-573,58,1336,69,93.6,false,true,true,true
+803,"Elizabeth Arden, Inc",IP-802,95,1151,353,12.2,true,false,true,true
+183,Contract Pharmacy Services-PA,CW-131,34,1722,121,94.5,false,true,true,false
+666,Blistex Inc,EL-736,41,2204,61,27.3,true,false,false,false
+775,Perrigo New York Inc,VF-625,54,1776,200,31.9,true,true,false,false
+133,"Aidance Skincare & Topical Solutions, LLC",BM-656,30,2125,438,96.9,false,true,false,false
+436,Bryant Ranch Prepack,NU-626,41,1205,420,58.3,false,true,false,false
+893,"Antigen Laboratories, Inc.",LR-188,18,2295,100,16.1,false,true,true,false
+182,Pfizer Laboratories Div Pfizer Inc,IC-971,59,2165,489,90.0,true,false,false,true
+940,Mylan Pharmaceuticals Inc.,TM-966,81,2190,238,65.6,false,true,true,false
+22,"Nova Homeopathic Therapeutics, Inc.",VP-003,86,2387,289,12.2,false,true,false,true
+129,"American Regent, Inc.",RH-719,95,2455,243,57.8,true,true,true,false
+382,Dermarite Industries LLC,IR-589,96,1360,358,21.0,true,false,true,false
+807,Ventura Corporation Limited,KB-971,46,1678,31,23.9,false,true,true,true
+66,Wal-Mart Stores Inc,AG-978,50,2173,267,77.0,true,true,true,false
+376,Meijer Distribution Inc,TL-000,78,2434,396,17.2,true,true,false,true
+724,AbbVie Inc.,TO-486,100,2068,144,70.6,false,false,false,false
+694,Lake Erie Medical DBA Quality Care Products LLC,QC-031,97,2281,169,43.5,false,true,false,false
+7,"Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.",MW-119,33,2024,286,37.5,true,true,true,true
+30,New Sun Inc.,MQ-671,51,2412,280,90.5,true,false,true,true
+594,"Lannett Company, Inc.",RS-710,81,1944,85,67.5,true,true,false,true
+137,"MedVantx, Inc.",NS-892,85,1415,85,38.3,true,true,true,true
+670,"Life Line Home Care Services, Inc.",OD-772,62,1404,202,61.6,false,true,true,false
+263,State of Florida DOH Central Pharmacy,WV-328,17,2366,26,23.5,true,true,false,true
+888,"OASIS Medical, Inc.",UM-525,35,2471,492,88.0,true,true,true,false
+91,"H and P Industries, Inc. dba Triad Group",OK-700,99,1209,52,87.7,true,false,false,false
+297,"H.J. Harkins Company, Inc.",BU-133,76,2202,404,75.7,false,true,false,true
+944,"Safeway, Inc.",LI-898,11,2127,247,61.4,false,false,false,true
+746,Publix Super Markets Inc,NC-338,31,2210,357,29.7,false,true,false,true
+468,Geri-Care Pharmaceutical Corp,YD-669,10,1291,39,39.1,false,true,false,false
+374,Delon Laboratories (1990) Ltd,UA-626,99,1093,208,29.7,true,true,true,true
+443,Teva Pharmaceuticals USA Inc,WN-096,35,1666,41,85.2,false,false,true,false
+299,Pfizer Laboratories Div Pfizer Inc,DW-682,58,1086,301,51.1,false,false,false,false
+781,Target Corporation,PC-314,68,1098,392,31.9,true,true,false,false
+75,Remedy Makers,CI-424,67,1340,180,52.1,true,true,true,true
+375,Aurobindo Pharma Limited,SL-184,79,1043,118,37.1,true,true,true,false
+861,Aqua Pharmaceuticals,FI-563,16,1693,279,20.9,false,true,true,true
+689,Uriel Pharmacy Inc.,AD-049,73,1195,141,21.3,false,false,true,false
+786,Washington Homeopathic Products,KJ-057,49,1040,94,85.3,false,false,true,false
+696,"Deseret Biologicals, Inc.",ZX-453,20,2194,139,35.6,true,true,true,false
+112,AmerisourceBergen,MR-802,43,1769,338,61.3,false,false,true,true
+184,"ALK-Abello, Inc.",TE-116,36,1415,499,35.8,true,true,true,true
+866,"Physicians Total Care, Inc.",KR-037,34,1480,464,78.3,false,false,false,true
+526,"Aphena Pharma Solutions - Tennessee, LLC",XJ-507,17,2015,171,26.4,false,false,false,true
+710,McKesson Packaging Services a business unit of McKesson Corporation,EB-406,36,1911,212,13.9,true,true,false,false
+441,"CutisPharma, Inc.",NA-260,53,1255,180,82.7,true,false,true,false
+317,Sagent Pharmaceuticals,OK-933,28,1083,401,47.8,true,true,false,true
+534,Torrent Pharmaceuticals Limited,LO-048,70,2384,365,69.2,true,false,true,false
+810,"NCS HealthCare of KY, Inc dba Vangard Labs",ED-952,81,1964,127,19.4,false,false,true,false
+447,A-S Medication Solutions LLC,YK-872,38,2154,118,25.7,true,false,true,false
+115,"The Hain Celestial Group, Inc.",KR-580,86,1970,210,85.8,false,false,true,true
+51,Dr. Dream Inc,UF-613,58,1305,40,43.0,false,true,false,false
+173,REMEDYREPACK INC.,ZU-871,23,1980,152,10.4,true,true,true,false
+831,Darby Dental Supply Co Inc,XU-229,77,1899,356,19.2,false,true,false,false
+702,Dr. Reddy's Laboratories Inc,FZ-722,88,2383,207,73.8,false,false,false,false
+607,REMEDYREPACK INC.,HN-808,82,2448,248,44.3,false,true,false,false
+200,West-ward Pharmaceutical Corp.,WF-276,39,1306,73,89.7,true,false,false,true
+146,L'Oreal USA Products Inc,CA-583,13,1639,298,61.7,false,true,false,true
+966,CVS PHARMACY,OI-165,91,1025,460,55.5,true,true,false,false
+315,"Physicians Total Care, Inc.",DE-419,84,1169,352,57.5,true,false,true,false
+703,State of Florida DOH Central Pharmacy,WM-075,28,1818,298,94.4,true,false,false,true
+977,L Perrigo Company,FX-454,18,2318,161,65.8,false,false,false,false
+929,McKesson,LG-325,22,1444,232,24.3,true,false,false,true
+32,"Deseret Biologicals, Inc.",VP-679,24,1407,156,35.5,false,true,false,false
+669,"Hi-Tech Pharmacal Co., Inc.",ER-589,59,2446,254,51.2,true,false,true,true
+439,L'Oreal USA Products Inc,DN-834,14,2424,469,90.6,false,true,false,false
+45,Food Lion,SP-554,70,2233,174,23.2,true,true,false,false
+808,Kmart Corporation,SP-312,63,1849,346,78.3,false,false,true,true
+914,AMOREPACIFIC,RS-755,37,2126,386,73.9,true,false,false,true
+104,"Watson Laboratories, Inc.",NM-900,16,2469,55,81.9,true,true,false,true
+462,SHISEIDO AMERICAS CORPORATION,SP-138,85,2428,427,94.0,true,false,true,false
+487,"NATURE REPUBLIC CO., LTD.",BV-156,95,1740,130,78.3,false,false,false,true
+951,Ventura Corporation LTD.,PB-977,70,1905,141,66.8,false,false,false,false
+405,AstraZeneca LP,YK-422,29,1365,105,95.9,true,true,false,true
+41,KAS Direct LLC dba BabyGanics,ZY-735,34,1183,349,81.1,true,false,false,true
+338,Supervalu Inc,KY-745,33,1237,427,87.5,true,true,true,true
+513,Uriel Pharmacy Inc.,MV-296,13,1909,243,96.7,false,false,true,true
+239,State of Florida DOH Central Pharmacy,TS-347,41,1964,92,48.1,true,true,true,false
+653,"Aptalis Pharma US, Inc.",FR-302,17,1350,458,44.1,true,true,true,true
+237,Kmart Corporation,JC-548,93,1454,27,23.0,true,false,true,false
+214,"McNeil Consumer Healthcare Div McNeil-PPC, Inc",OH-002,36,2196,293,96.4,true,true,false,true
+357,McKesson Packaging Services a buisness unit of McKesson Corporation,LB-342,74,2342,339,90.5,false,true,false,false
+663,"Camber Pharmaceuticals, Inc.",LA-773,91,2069,271,78.4,false,false,true,true
+160,Bare Escentuals Beauty Inc.,ZN-147,50,1989,228,59.4,false,true,true,true
+475,Heritage Pharmaceuticals Inc.,LG-397,27,1962,446,72.5,true,false,true,false
+252,Mylan Institutional Inc.,DH-002,92,1981,212,59.5,true,false,true,true
+907,Cardinal Health,QW-907,23,2238,325,19.4,false,true,true,true
+998,Natureteq Inc.,IF-440,37,1141,467,90.9,false,false,true,false
+610,RedPharm Drug Inc.,WX-558,29,1983,185,83.5,true,true,false,false
+551,"Ningbo Dowland Daily Health Co., Ltd",NY-442,94,2280,295,13.0,true,true,false,true
+799,"Chattem, Inc.",DJ-358,78,1515,486,33.5,true,true,false,true
+86,"Med-Health Pharma, LLC",NP-182,27,2193,268,46.5,true,true,true,false
+979,GlaxoSmithKline Consumer Healthcare LP,UK-765,80,1007,226,16.5,true,true,false,true
+774,Neutrogena Corporation,YZ-882,88,2478,93,23.6,true,true,false,false
+10,Seton Pharmaceuticals,CG-024,20,1690,378,42.7,false,true,false,false
+919,"NATURE REPUBLIC CO., LTD.",NO-601,20,2297,79,97.0,false,false,false,false
+973,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,RS-280,79,1069,179,71.8,true,true,false,true
+476,"Nelco Laboratories, Inc.",AF-931,55,2165,229,74.1,false,true,false,true
+207,"Cypress Pharmaceutical, Inc",SM-775,83,2171,120,59.4,false,false,true,true
+687,ESTEE LAUDER INC,XH-703,48,1841,360,94.6,true,false,false,true
+54,Wal-Mart Stores Inc,MA-495,31,1019,66,95.9,false,true,true,true
+877,"Nelco Laboratories, Inc.",RB-593,32,1879,269,29.4,false,true,false,true
+373,Legacy Pharmaceutical Packaging,KZ-448,70,2063,191,44.8,false,false,true,false
+825,AmerisourceBergen,YK-933,23,1745,239,36.2,false,false,false,true
+78,"American Regent, Inc.",FR-650,27,2441,92,86.9,true,true,true,false
+464,"Dolgencorp, Inc. (DOLLAR GENERAL & REXALL)",ZS-554,76,1269,351,13.4,true,true,false,true
+809,Rising Pharmaceuticals Inc,FM-702,55,1373,144,63.1,true,true,true,true
+823,Sun Pharma Global FZE,QX-568,43,1423,79,94.2,false,true,true,true
+548,Meijer Distribution Inc,CX-516,29,1763,248,69.5,true,true,false,true
+913,"E.R. Squibb & Sons, L.L.C.",EY-042,56,1871,366,42.4,true,true,true,false
+150,"Elizabeth Arden, Inc",VH-572,51,1683,204,15.5,false,true,false,true
+867,"Dispensing Solutions, Inc.",XZ-260,80,1369,160,67.6,false,false,false,true
+409,"Onset Dermatologics, LLC",BR-481,77,1939,414,83.3,true,true,false,false
+348,"Nelco Laboratories, Inc.",VY-549,97,2131,350,83.7,false,true,false,true
+43,Rite Aid Corporation,DA-591,88,2255,296,17.0,false,true,false,false
+959,"ALK-Abello, Inc.",SU-707,41,1286,80,17.1,true,false,true,true
+880,King Bio Inc.,KN-867,31,1908,280,35.2,false,false,false,true
+544,Sandoz Inc,NU-340,14,2029,392,71.8,false,false,true,true
+738,Natures Way Holding Co.,KT-805,12,2099,226,38.9,false,false,true,true
+105,Purdue Pharma LP,NC-602,93,1609,98,98.5,true,true,false,false
+371,Johnson & Johnson Sante Beaute ? France,SV-141,23,1637,384,78.3,true,false,true,false
+835,Par Pharmaceutical Inc.,PG-306,14,1188,317,16.2,true,true,false,false
+427,"Dong Sung Pharm. Co., Ltd.",YT-994,82,2067,257,32.2,true,false,false,false
+902,sanofi-aventis U.S. LLC,RA-620,47,1513,81,81.8,false,false,false,false
+453,"Epic Pharma, LLC",FQ-903,17,1848,57,78.1,false,false,false,true
+878,"Pacific Island Medical, Inc.",DQ-437,87,1795,495,54.0,true,false,false,false
+154,"Tercica, Inc.",VM-330,44,1847,24,41.7,false,false,true,true
+428,Insight Pharmaceuticals,YF-644,91,2490,161,80.8,false,false,false,true
+728,Rise International Group LLC,UH-122,64,2375,344,37.2,true,false,true,false
+576,"Nelco Laboratories, Inc.",BN-733,91,1998,65,67.0,true,true,true,false
+84,Uriel Pharmacy Inc.,TW-338,40,2407,247,70.3,true,false,true,true
+414,Mylan Pharmaceuticals Inc.,ZM-714,72,1720,440,21.0,false,false,false,false
+266,Rugby Laboratories,HN-090,81,2196,84,73.1,false,false,false,true
+552,"Taro Pharmaceuticals U.S.A., Inc.",RU-295,55,2216,344,28.8,true,true,false,true
+114,Accord Healthcare Inc.,DU-232,56,1597,6,84.4,false,false,true,true
+269,"Lorac Cosmetics, Inc.",OX-425,44,1490,327,85.9,true,true,false,true
+842,"BioActive Nutritional, Inc.",NT-204,97,1054,488,26.5,true,true,false,true
+718,"Golden State Medical Supply, Inc.",YK-888,78,1712,404,53.1,false,false,true,false
+755,NARS COSMETICS,FC-151,47,2193,33,20.0,true,true,false,true
+690,Dr. Reddy's Laboratories Limited,ID-764,12,1811,33,94.6,true,false,true,true
+871,Pro-ventas S.A. de C.V.,GI-445,25,2198,26,38.6,false,false,true,false
+314,Kinray Inc.,MW-033,15,2226,356,31.4,false,false,false,false
+364,Actavis South Atlantic LLC,EQ-454,84,1398,145,46.9,true,false,true,true
+305,"Menper Distributors, Inc.",EF-133,72,1217,368,77.4,true,false,false,false
+521,American Sales Company,IH-957,36,1768,70,21.2,true,false,false,true
+895,McKesson Contract Packaging,LW-414,35,1467,275,29.1,false,false,false,true
+734,"Jazz Pharmaceuticals, Inc.",EJ-995,19,1390,393,17.5,false,false,false,false
+421,"Accudial Pharmaceutical, Inc.",IU-419,59,2170,24,87.0,true,true,false,false
+11,Unit Dose Services,UF-122,86,1351,82,22.8,true,false,true,false
+163,CVS Pharmacy,VJ-516,67,1010,309,95.7,true,false,true,false
+437,"PD-Rx Pharmaceuticals, Inc.",QS-468,66,2462,155,15.9,false,true,false,true
+937,"Physicians Total Care, Inc.",DT-014,71,1548,63,36.4,false,true,true,true
+695,"Nelco Laboratories, Inc.",BZ-045,81,2451,242,37.3,false,false,true,true
+389,"DOLGENCORP, LLC",SO-446,87,1543,186,30.9,true,false,false,false
+716,"Swiss American Products, Inc.",MN-627,52,1382,482,72.0,true,false,false,false
+153,"The Hain Celestial Group, Inc.",AG-285,61,2500,108,28.3,true,false,true,true
+838,"American Regent, Inc.",FU-886,69,1901,468,18.2,true,true,true,false
+420,SHISEIDO AMERICAS CORPORATION,EG-691,58,1389,31,20.5,true,true,true,true
+721,"Robinson Pharma, Inc.",NV-564,53,1027,323,68.1,false,false,true,true
+334,Natural Health Supply,DP-054,63,1063,173,24.2,false,true,false,true
+510,Meijer Distribution Inc,SY-603,12,1420,179,14.0,true,true,false,true
+683,Best Choice (Valu Merchandisers Company),ZY-899,58,1705,487,50.9,false,true,false,true
+98,Wegman Food Markets Inc,PM-114,69,1150,387,55.8,true,true,true,false
+493,Yves Rocher North America Inc,LI-393,53,2140,277,50.7,false,false,false,false
+570,Proficient Rx LP,FA-264,89,1522,148,60.5,true,true,true,true
+549,Oceanside Pharmaceuticals,RF-242,97,1277,133,91.9,false,false,true,true
+596,"Physicians Total Care, Inc.",QB-055,98,2291,152,45.4,true,true,true,true
+329,Bristol-Myers Squibb Company,PW-283,86,1381,272,25.9,false,true,true,true
+318,"Nelco Laboratories, Inc.",QH-598,94,1880,437,53.3,false,false,true,false
+448,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,HY-662,30,2078,245,81.3,true,true,false,true
+13,"CVS Pharmacy, Inc",RG-412,96,2128,223,56.1,false,true,true,true
+270,"WG Critical Care, LLC",MD-874,35,2477,131,22.9,false,false,false,false
+304,"Medline Industries, Inc.",UD-162,98,2326,282,50.9,true,false,true,false
+676,"Airgas Southwest, Inc.",AG-728,62,1309,446,85.7,false,true,false,true
+681,"SJ Creations, Inc.",YI-834,86,2005,345,61.9,true,true,false,true
+58,"Betco Corporation, Ltd.",ZC-571,12,1018,229,64.0,true,true,true,false
+840,"Hospira, Inc.",BF-366,12,1591,174,66.4,false,false,true,false
+927,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,YX-015,24,2036,326,65.3,true,true,false,false
+463,"Nelco Laboratories, Inc.",YQ-744,64,1540,178,63.2,false,false,false,false
+469,Uriel Pharmacy Inc.,FO-068,19,1148,234,17.6,true,true,true,false
+747,"Jiangsu Province JianErKang Medical Dressing Co. ,Ltd.",YH-923,15,1845,71,13.7,true,false,false,true
+258,Jubilant HollisterStier LLC,VY-084,56,2020,35,94.8,false,false,true,true
+949,American Welding & Gas,LO-103,19,1664,258,59.6,false,true,false,true
+725,West-Ward Pharmaceutical Corp,HQ-833,47,1051,320,45.0,true,false,true,false
+28,Apotex Corp.,CT-805,70,1206,140,67.5,false,false,false,false
+204,Cardinal Health,IG-195,71,2347,282,78.8,true,true,true,true
+859,"Physicians Total Care, Inc.",NR-431,89,1762,292,78.0,false,true,true,true
+331,Homeocare Laboratories,UY-775,75,2462,413,17.3,false,false,false,false
+275,CLINIQUE LABORATORIES INC,ZB-961,39,2158,21,63.4,false,false,false,true
+25,Pliva Inc.,YE-271,19,1579,439,41.1,false,false,false,true
+417,"G.S. COSMECEUTICAL USA, INC.",LZ-304,58,2145,456,41.0,true,true,false,false
+546,NeoPharm USA,XD-117,77,1462,142,93.7,false,true,false,false
+149,Budpack Inc.,LF-282,64,1082,139,76.9,false,true,true,true
+905,"Dolgencorp, LLC",NQ-536,85,2198,71,66.4,false,true,true,true
+779,"General Injectables & Vaccine, Inc",CV-440,52,1308,20,45.3,false,true,false,true
+822,Rebel Distributors Corp,XT-225,82,2176,212,85.6,false,true,true,false
+272,Medicis Pharmaceutical Corp,GR-644,13,1356,323,89.9,false,true,true,false
+408,Home Sweet Homeopathics,JC-504,44,1150,354,94.6,true,false,true,true
+941,American Health Packaging,CA-423,44,1656,364,93.2,false,false,true,false
+452,Beiersdorf Inc,TQ-960,14,1185,494,52.5,false,true,false,true
+912,"Lupin Pharmaceuticals, Inc.",KL-985,54,1664,342,33.6,true,true,false,false
+281,"Deseret Biologicals, Inc.",OT-826,75,2110,144,51.4,false,false,true,true
+651,"BDMP, LLC",NA-757,70,2375,270,14.2,false,false,false,true
+79,Teva Pharmaceuticals USA Inc,WF-985,88,2432,367,44.3,false,false,true,true
+199,"Antigen Laboratories, Inc.",ZI-918,14,1365,26,96.2,false,false,false,false
+303,Pharmacia and Upjohn Company,HU-615,54,1758,270,78.4,true,true,true,true
+393,"Nelco Laboratories, Inc.",DY-209,33,1306,328,63.2,true,false,false,false
+756,Guna spa,LJ-762,63,2140,317,14.0,true,false,true,true
+740,Medtech Products Inc.,BE-226,20,1593,306,70.8,false,true,true,false
+950,Sun Pharma Global FZE,HN-246,19,1389,146,21.0,false,true,false,false
+569,Unifirst First Aid Corporation,PF-493,52,1840,23,63.3,false,true,true,false
+834,"OMP, Inc.",LS-076,68,2169,145,93.1,false,true,true,true
+327,"Supernus Pharmaceuticals, Inc.",CJ-662,56,1523,14,20.4,false,false,false,false
+187,"Nelco Laboratories, Inc.",XN-054,78,1830,72,46.7,true,false,true,true
+152,PROMED EXPORTS PRIVATE LIMITED,MT-728,33,1353,267,47.1,true,true,false,true
+828,Lantern Enterprises Ltd.,JI-574,65,2279,482,53.0,false,true,false,false
+250,"ALK-Abello, Inc.",UP-521,92,2494,395,74.2,true,true,true,false
+131,"Lannett Company, Inc.",DL-516,17,1870,240,35.2,false,true,true,true
+88,Eli Lilly and Company,ZH-276,78,2367,8,68.2,false,true,true,true
+792,L'Oreal USA Products Inc,VT-525,59,1118,271,94.6,false,false,true,false
+915,Dr. Reddy's Laboratories Limited,VD-544,36,1743,408,26.7,true,false,true,false
+684,Kroger Company,BG-170,76,2474,189,64.3,true,false,true,true
+465,SANUM-KEHLBECK GMBH & CO KG,JE-589,19,1174,186,68.4,true,true,false,true
+983,Cardinal Health,HV-609,34,1183,69,37.2,false,false,false,false
+530,BJWC,YI-535,48,1222,231,44.0,true,true,true,false
+139,"Allergan, Inc.",SO-395,94,1209,327,36.3,true,true,false,true
+787,Heritage Pharmaceuticals Inc.,KQ-407,50,2210,207,35.1,true,true,false,true
+575,"Safeway, Inc.",VH-448,88,2267,465,18.9,false,false,true,false
+485,"Blu Pharmaceuticals, LLC",IR-556,61,1732,404,62.5,true,true,true,true
+234,STAT RX USA LLC,TD-757,80,2190,149,66.3,false,true,false,false
+171,"SJ Creations, Inc.",BK-826,100,1644,494,86.8,false,true,true,false
+999,"Nelco Laboratories, Inc.",WJ-767,90,1889,312,77.2,true,false,true,false
+978,Aidarex Pharmaceuticals LLC,PG-704,68,1649,94,79.3,false,true,true,false
+388,"RECORDATI RARE DISEASES, INC.",XY-304,52,2335,72,91.7,true,false,true,true
+767,Supervalu Inc,ZE-291,79,1601,113,56.6,false,false,true,true
+988,Jafra Cosmetics International Inc,XZ-716,51,1945,256,94.9,false,true,false,false
+990,STAT RX USA LLC,YN-943,61,2480,226,94.1,true,true,true,false
+478,Cardinal Health,TZ-888,20,1883,175,96.1,false,false,true,true
+125,"Physicians Total Care, Inc.",PO-604,21,1194,114,74.3,false,false,true,true
+618,Meijer Distribution Inc,NQ-492,62,2209,410,87.7,true,false,false,false
+26,Darby Dental Supply Co,NX-142,79,1447,86,51.4,false,false,false,false
+939,Aidarex Pharmaceuticals LLC,DU-035,67,1401,368,64.8,true,false,false,true
+505,Revlon Consumer Products Corp,MW-939,100,1716,257,49.4,false,true,false,true
+229,"ALK-Abello, Inc.",BQ-770,84,1264,403,67.0,true,true,true,true
+820,"Physicians Total Care, Inc.",XC-947,40,1563,51,75.7,true,false,true,true
+426,REMEDYREPACK INC.,QM-027,77,1579,482,94.4,true,true,true,false
+189,Cardinal Health,TR-846,74,1578,419,35.9,false,false,true,false
+976,Medimetriks Pharmaceuticals,BV-546,27,1725,309,96.3,false,false,false,false
+386,AmerisourceBergen (Good Neighbor Pharmacy),IB-357,51,2467,344,34.9,true,true,true,true
+649,Ventura Corporation LTD,YI-083,17,1677,164,32.4,true,true,false,false
+320,Harmon Stores Inc.,TC-956,41,1627,419,78.9,true,false,false,false
+646,sanofi-aventis U.S. LLC,XY-814,25,1314,145,78.9,false,false,false,false
+543,"Taro Pharmaceuticals U.S.A., Inc.",WU-835,27,2028,465,98.3,false,true,true,true
+232,Greenstone LLC,XW-159,47,2379,478,66.8,false,true,false,false
+248,Contract Pharmacy Services-PA,ST-162,53,1707,141,49.3,true,true,false,true
+410,Apollo Health and Beauty Care,RL-805,95,2153,379,60.3,true,true,false,true
+442,"Amneal Pharmaceuticals of New York, LLC",EH-890,31,1105,115,22.2,false,false,false,false
+558,Lake Erie Medical & Surgical Supply DBA Quality Care Products LLC,OX-607,20,2055,393,69.1,false,false,false,true
+450,"AMI Cosmetic Co.,Ltd.",BO-282,33,1984,394,75.0,false,true,true,false
+107,L Perrigo Company,WS-185,81,1461,411,56.1,true,true,false,true
+17,"Natural Creations, Inc.",HR-438,59,2023,446,11.0,false,false,true,false
+971,Unit Dose Services,DY-107,20,1349,125,88.2,true,true,false,true
+290,Sagent Pharmaceuticals,NX-068,31,1376,183,82.4,true,false,false,false
+208,"Physicians Total Care, Inc.",GE-120,17,1693,328,42.2,true,true,false,false
+800,REMEDYREPACK INC.,KS-788,56,1156,387,47.0,true,true,true,true
+509,"AMI Cosmetic Co.,Ltd.",KB-829,33,1785,116,64.9,true,false,false,false
+719,Cardinal Health,FI-608,56,1253,415,74.5,false,false,false,false
+727,Qualitest Pharmaceuticals,LI-061,75,2350,247,79.0,false,true,false,false
+143,"A&Z Pharmaceutical, Inc.",WM-088,76,1499,264,65.4,true,false,false,true
+480,Mylan Institutional LLC,IO-404,22,1752,44,92.1,true,false,false,false
+559,Perrigo New York Inc,MI-962,49,1597,231,28.5,false,false,false,true
+445,"Nelco Laboratories, Inc.",LR-668,88,2289,82,85.4,true,false,true,true
+24,"EQUATE (Walmart Stores, Inc.)",TX-731,68,1146,297,89.0,false,true,false,false
+398,Harmon Stores Inc.,FT-178,54,2244,345,51.5,false,false,false,false
+288,"Allergy Laboratories, Inc.",PD-580,92,2382,211,11.9,true,false,true,false
+435,"Janssen Pharmaceuticals, Inc.",BW-116,45,1202,293,47.6,false,false,true,false
+301,Terumo Corporation,IH-046,70,2397,245,77.7,false,true,true,false
+839,Midlothian Laboratories,KT-221,64,2388,432,82.8,false,true,false,true
+148,Rochester Midland Corporation,MA-200,90,1119,188,22.5,true,true,false,false
+600,Bryant Ranch Prepack,EO-735,57,1191,487,68.6,true,false,false,false
+335,Cardinal Health,EU-315,12,2053,500,57.8,true,false,false,true
+186,"NCS HealthCare of KY, Inc dba Vangard Labs",DT-008,63,1735,275,20.0,true,true,false,true
+286,American Health Packaging,MV-951,31,1262,132,98.7,false,true,false,false
+529,Parfums Christian Dior,QL-437,45,1386,372,37.7,false,false,false,true
+962,The Mentholatum Company,EO-528,35,1611,111,71.3,false,true,true,false
+908,Uriel Pharmacy Inc.,LU-312,60,1039,489,41.9,false,false,true,true
+515,Uriel Pharmacy Inc.,GM-220,82,1196,373,16.9,false,false,false,true
+717,STAT Rx USA LLC,IW-691,96,1406,202,73.5,false,false,true,true
+563,"H.J. Harkins Company, Inc.",VS-496,69,2017,477,77.7,false,true,false,false
+898,AMOREPACIFIC,VH-613,45,1967,14,13.9,true,false,false,false
+584,Patterson Dental Supply Inc,DZ-907,70,1856,454,57.7,false,true,true,true
+81,REMEDYREPACK INC.,GA-518,92,1322,424,93.7,false,true,false,true
+460,"Physicians Total Care, Inc.",YT-731,22,1433,198,82.2,true,false,true,false
+665,"Dermalogica, Inc.",UQ-583,55,1547,40,86.6,true,false,true,false
+359,"Medline Industries, Inc.",WL-306,88,2214,436,47.3,true,true,false,true
+101,Jafra Cosmetics International Inc,YW-023,72,1887,351,93.6,false,false,false,true
+736,"Boehringer Ingelheim Pharmaceuticals, Inc.",TC-066,78,1852,217,69.4,false,false,true,true
+759,"HANLIM PHARM. CO., LTD.",UI-379,62,2313,157,59.2,false,true,true,true
+938,"ALK-Abello, Inc.",PM-942,81,2496,411,24.5,false,true,false,false
+167,"Glenmark Generics Inc., USA",SN-517,52,1879,182,62.3,false,true,true,true
+770,"Golden State Medical Supply, Inc.",UO-317,80,1764,36,48.1,false,false,true,false
+732,Sanum Kehlbeck GmbH & Co. KG,OU-729,84,1426,348,79.9,true,false,false,false
+925,"Erno Laszlo, Inc.",LH-954,74,1402,302,72.2,true,false,true,true
+904,Cipla Limited,GI-093,41,2202,121,91.7,false,true,false,false
+89,State of Florida DOH Central Pharmacy,JM-162,67,1533,34,59.9,false,true,false,true
+292,Teva Pharmaceuticals USA Inc,ZY-170,76,1195,350,65.8,true,false,true,true
+729,Perrigo New York Inc,YV-203,18,1690,429,52.2,true,false,true,false
+391,Sun Pharmaceutical Industries Limited,NR-138,83,1029,500,13.0,false,false,false,true
+332,"Nelco Laboratories, Inc.",JL-734,53,1967,310,74.2,true,true,false,false
+869,"Blenheim Pharmacal, Inc.",TW-081,65,1625,444,16.9,false,true,true,true
+798,"Eon Labs, Inc.",DO-325,18,1773,471,15.1,true,false,false,true
+55,Omega Tech Labs Inc.,EH-423,52,2008,70,90.6,false,false,true,true
+611,"Nelco Laboratories, Inc.",PE-805,47,1496,372,40.3,false,true,false,false
+260,Uriel Pharmacy Inc.,TP-421,39,1687,181,10.2,true,false,false,true
+235,"Nelco Laboratories, Inc.",BG-805,51,1233,40,22.8,true,true,false,true
+267,"BioActive Nutritional, Inc.",QY-384,37,1137,88,32.2,false,false,true,false
+723,"Kareway Product, Inc.",XC-526,51,1098,143,24.7,true,true,true,false
+215,"Physicians Total Care, Inc.",EK-357,47,1396,310,33.7,true,true,true,false
+997,Strides Arcolab Limited,CQ-561,53,1937,7,50.1,true,true,true,true
+296,First Aid Research Corp.,RA-981,28,1366,54,67.0,false,false,false,true

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+{% block content %}
+  <form name="input" action="/check_in/" method="get">
+    <input type="radio" name="check_in_mode" value="search" style="visibility:hidden;" checked/>
+    <b>Search:</b><br/>
+    <input type="radio" name="search" value="book_id" checked/>
+    book id:
+    <input type="text" name="book_id" style="position:absolute;left:150px"/>
+    <br/>
+    <input type="radio" name="search" value="card_no"/>
+    card no:
+    <input type="text" name="card_no" style="position:absolute;left:150px"/>
+    <br/>
+    <input type="radio" name="search" value="borrower"/>
+    borrower name:
+    <input type="text" name="borrower" style="position:absolute;left:150px"/>
+    <br/>
+    <input type="submit" value="search"/>
+  </form>
+
+  {% if book_datas %}
+  <form name="input" action="/check_in/" method="get">
+    <input type="radio" name="check_in_mode" value="check_in" style="visibility:hidden;" checked/>
+    <br/>
+    <input type="submit" value="check in"/>
+    <br/>
+    {% for loan in book_datas %}
+    <input type="radio" name="loan_id" value="{{loan.loan_id}}"/>
+    book id: <b>{{loan.book_id}}</b> branch id: <b>{{loan.branch_id}}</b> card no: <b>{{loan.card_no}}</b> date out: <b>{{loan.date_out}}</b> due date: <b>{{loan.due_date}}</b></p>
+    <br/>
+    {% endfor %}
+  </form>
+  {% endif %}
+{% endblock %}
